@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "timestamp": "2026-08-16T12:00:00+00:00",
+  "sites": {
+    "hoojump": {
+      "directory_submissions": [
+        {"directory": "GitHub README", "url": "https://github.com/stephaneguertin-meister/seo-data", "status": "live", "link_type": "dofollow", "submitted_date": "2026-08-16", "live_url": "https://github.com/stephaneguertin-meister/seo-data/blob/main/README.md"}
+      ],
+      "content_links": [
+        {"platform": "Dev.to", "url": "https://dev.to", "status": "active", "link_type": "dofollow"},
+        {"platform": "Medium", "url": "https://medium.com", "status": "active", "link_type": "nofollow"},
+        {"platform": "WordPress.com", "url": "https://aivoxiovoiceai.wordpress.com", "status": "active", "link_type": "nofollow"}
+      ],
+      "reddit_links": []
+    },
+    "aivoxio": {
+      "directory_submissions": [
+        {"directory": "GitHub README", "url": "https://github.com/stephaneguertin-meister/seo-data", "status": "live", "link_type": "dofollow", "submitted_date": "2026-08-16", "live_url": "https://github.com/stephaneguertin-meister/seo-data/blob/main/README.md"}
+      ],
+      "content_links": [
+        {"platform": "Dev.to", "url": "https://dev.to", "status": "active", "link_type": "dofollow"},
+        {"platform": "Medium", "url": "https://medium.com", "status": "active", "link_type": "nofollow"},
+        {"platform": "WordPress.com", "url": "https://aivoxiovoiceai.wordpress.com", "status": "active", "link_type": "nofollow"}
+      ],
+      "reddit_links": []
+    }
+  }
+}
