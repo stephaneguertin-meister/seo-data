@@ -1970,6 +1970,174 @@
           }
         ]
       }
+    },
+    "cloutclock": {
+      "domain": "cloutclock.com",
+      "collection_date": "2026-08-27T05:23:38+00:00",
+      "keywords_tracked": 12,
+      "keywords_found": 0,
+      "avg_rank": null,
+      "top3_count": 0,
+      "top10_count": 0,
+      "top20_count": 0,
+      "ai_overview_citations": 0,
+      "ai_mode_citations": 0,
+      "featured_snippet_count": 0,
+      "chatgpt_citations": 0,
+      "gemini_citations": 0,
+      "total_serpapi_searches": 0,
+      "total_llm_calls": 0,
+      "keyword_details": [
+        {
+          "keyword": "clout clock",
+          "rank": null,
+          "title": "",
+          "snippet": "",
+          "sitelinks": false,
+          "ai_overview_cited": false,
+          "ai_mode_cited": false,
+          "featured_snippet": false,
+          "chatgpt_cited": false,
+          "gemini_cited": false
+        },
+        {
+          "keyword": "attention leaderboard",
+          "rank": null,
+          "title": "",
+          "snippet": "",
+          "sitelinks": false,
+          "ai_overview_cited": false,
+          "ai_mode_cited": false,
+          "featured_snippet": false,
+          "chatgpt_cited": false,
+          "gemini_cited": false
+        },
+        {
+          "keyword": "website popularity contest",
+          "rank": null,
+          "title": "",
+          "snippet": "",
+          "sitelinks": false,
+          "ai_overview_cited": false,
+          "ai_mode_cited": false,
+          "featured_snippet": false,
+          "chatgpt_cited": false,
+          "gemini_cited": false
+        },
+        {
+          "keyword": "clout competition",
+          "rank": null,
+          "title": "",
+          "snippet": "",
+          "sitelinks": false,
+          "ai_overview_cited": false,
+          "ai_mode_cited": false,
+          "featured_snippet": false,
+          "chatgpt_cited": false,
+          "gemini_cited": false
+        },
+        {
+          "keyword": "site visibility ranking",
+          "rank": null,
+          "title": "",
+          "snippet": "",
+          "sitelinks": false,
+          "ai_overview_cited": false,
+          "ai_mode_cited": false,
+          "featured_snippet": false,
+          "chatgpt_cited": false,
+          "gemini_cited": false
+        },
+        {
+          "keyword": "content ranking tool",
+          "rank": null,
+          "title": "",
+          "snippet": "",
+          "sitelinks": false,
+          "ai_overview_cited": false,
+          "ai_mode_cited": false,
+          "featured_snippet": false,
+          "chatgpt_cited": false,
+          "gemini_cited": false
+        },
+        {
+          "keyword": "web leaderboard",
+          "rank": null,
+          "title": "",
+          "snippet": "",
+          "sitelinks": false,
+          "ai_overview_cited": false,
+          "ai_mode_cited": false,
+          "featured_snippet": false,
+          "chatgpt_cited": false,
+          "gemini_cited": false
+        },
+        {
+          "keyword": "backlink game",
+          "rank": null,
+          "title": "",
+          "snippet": "",
+          "sitelinks": false,
+          "ai_overview_cited": false,
+          "ai_mode_cited": false,
+          "featured_snippet": false,
+          "chatgpt_cited": false,
+          "gemini_cited": false
+        },
+        {
+          "keyword": "marketing leaderboard",
+          "rank": null,
+          "title": "",
+          "snippet": "",
+          "sitelinks": false,
+          "ai_overview_cited": false,
+          "ai_mode_cited": false,
+          "featured_snippet": false,
+          "chatgpt_cited": false,
+          "gemini_cited": false
+        },
+        {
+          "keyword": "website ranking game",
+          "rank": null,
+          "title": "",
+          "snippet": "",
+          "sitelinks": false,
+          "ai_overview_cited": false,
+          "ai_mode_cited": false,
+          "featured_snippet": false,
+          "chatgpt_cited": false,
+          "gemini_cited": false
+        },
+        {
+          "keyword": "attention economy ranking",
+          "rank": null,
+          "title": "",
+          "snippet": "",
+          "sitelinks": false,
+          "ai_overview_cited": false,
+          "ai_mode_cited": false,
+          "featured_snippet": false,
+          "chatgpt_cited": false,
+          "gemini_cited": false
+        },
+        {
+          "keyword": "site popularity leaderboard",
+          "rank": null,
+          "title": "",
+          "snippet": "",
+          "sitelinks": false,
+          "ai_overview_cited": false,
+          "ai_mode_cited": false,
+          "featured_snippet": false,
+          "chatgpt_cited": false,
+          "gemini_cited": false
+        }
+      ],
+      "discovery": {
+        "people_also_ask": [],
+        "related_searches": [],
+        "top_competitors": []
+      }
     }
   },
   "serpapi_searches_used": 48,
