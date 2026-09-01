@@ -1,88 +1,41 @@
 {
-  "timestamp": "2026-08-27T05:23:38+00:00",
+  "timestamp": "2026-09-01T14:36:48+00:00",
   "version": "2.0",
   "sites": {
     "hoojump": {
       "domain": "hoojump.com",
-      "collection_date": "2026-08-27T05:26:35+00:00",
+      "collection_date": "2026-09-01T14:36:50+00:00",
       "keywords_tracked": 12,
-      "keywords_found": 1,
-      "avg_rank": 5.0,
+      "keywords_found": 0,
+      "avg_rank": null,
       "top3_count": 0,
-      "top10_count": 1,
-      "top20_count": 1,
+      "top10_count": 0,
+      "top20_count": 0,
       "ai_overview_citations": 0,
-      "ai_mode_citations": 1,
+      "ai_mode_citations": 0,
       "featured_snippet_count": 0,
       "chatgpt_citations": 0,
       "gemini_citations": 0,
       "total_serpapi_searches": 24,
-      "total_llm_calls": 24,
+      "total_llm_calls": 0,
       "keyword_details": [
         {
           "keyword": "hoojump",
-          "rank": 5,
-          "title": "Contact – Hoojump",
-          "snippet": "Hoojump · Home · Catalog · Contact; More. USD Region and language selector. Country ... © 2026 Hoojump, Powered by Shopify. Terms and Policies. Privac",
+          "rank": null,
+          "title": null,
+          "snippet": null,
           "sitelinks": false,
           "ai_overview_cited": false,
           "ai_overview_snippet": "",
-          "ai_mode_cited": true,
-          "ai_mode_answer": "Hoojump could refer to a few different things depending on context, most notably an e\\-commerce store or related active\\-play products:\n\n- Hoojump Online Store: A print\\-on\\-demand e\\-commerce platform operated through Shopify.\n- Active Play & Toys: You might be thinking of \"Hoo Jump\" or related jumping toys, such as the [Happy Hoo Jump & Splash Play CentreGo to product viewer dialog for this item.](https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:29,mid:576462860086256183,imageDocid:8156",
-          "ai_mode_references": [
-            {
-              "title": "Privacy policy – Hoojump",
-              "link": "https://hoojump.com",
-              "source": "hoojump.com"
-            },
-            {
-              "title": "Happy Hoo Jump \\u0026 Splash Play Centre - Save $$$ - Facebook",
-              "link": "https://www.facebook.com",
-              "source": "Facebook"
-            },
-            {
-              "title": "Hydro Hop Sprinkler Jump Rope",
-              "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:7619357399420321427,catalogid:4125603858576970803,gpcid:4651914644778385871,mid:576462562948372028&ibp=oshop",
-              "source": "Google"
-            }
-          ],
+          "ai_mode_cited": false,
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
           "featured_snippet_text": "",
           "people_also_ask": [],
           "related_searches": [],
-          "competitors": [
-            {
-              "position": 3,
-              "title": "Whats possible more iconic to New Zealand than the kiwi? Two ...",
-              "source": "Facebook · Shotover Jet",
-              "link": "https://www.google.com/goto?url=caesxweb6zswfzor5jwz9bvmj5z25l3_lgc1ji67rtnwprvky5-c6nh-hipxglmtofnr"
-            },
-            {
-              "position": 4,
-              "title": "Jungle Jumparoo: The Ultimate Jumping Toy",
-              "source": "Jungle Jumparoo",
-              "link": "https://junglejumparoo.com/?srsltid\\u003dafmboorkikk70a0flrffdppvxwc4qilgwjsabyesv7jqqbpshtug3aen"
-            },
-            {
-              "position": 6,
-              "title": "Judy - 1 week until we open up the gates to Arendelle! Still ...",
-              "source": "Facebook · Judy Higgins-Olsen",
-              "link": "https://www.facebook.com/judy.higgins.391/photos/1-week-until-we-open-up-the-gates-to-arendellestill"
-            },
-            {
-              "position": 7,
-              "title": "Putting it Together Hop, Step, and Jump",
-              "source": "YouTube · HopSquad",
-              "link": "https://www.google.com/goto?url=caesywhrozavvmdnc1xnmo7vrkvx46clfkscauqhc83c6pyt6ognewypk-m6vgqsvgvn"
-            },
-            {
-              "position": 8,
-              "title": "What's possible more iconic to New Zealand than the kiwi? Two ...",
-              "source": "Instagram · shotoverjetnz",
-              "link": "https://www.google.com/goto?url=caesywhrozav8hggr-4zz93kuts1yafvuodyxp3uzkzqzgz2iz8oeufrg_htb5pxc6wg"
-            }
-          ],
-          "total_results": 2010,
+          "competitors": [],
+          "total_results": null,
           "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
@@ -98,117 +51,14 @@
           "ai_overview_cited": false,
           "ai_overview_snippet": "",
           "ai_mode_cited": false,
-          "ai_mode_answer": "A creator merch store refers either to platforms where creators can launch and sell their own custom merchandise, or online marketplaces where fans can buy authentic gear from their favorite influencers.\n\nIf you are looking to browse existing creator products or build your own store, several leading platforms handle everything from printing to shipping.\n\n### 🌐 Where to Buy Creator Merch Online\n\n- [Creator Merch](https://creatormerch.com/?srsltid=AfmBOopjTSwZvXzMvREes3rYgOKcRhHjpVfvBg74jYl4lLaKYF",
-          "ai_mode_references": [
-            {
-              "title": "Creator Merch | The latest merch from your favourite creators",
-              "link": "https://creatormerch.com/?srsltid=AfmBOopjTSwZvXzMvREes3rYgOKcRhHjpVfvBg74jYl4lLaKYFluCoBW",
-              "source": "Creator Merch"
-            },
-            {
-              "title": "Creator Ink",
-              "link": "https://creatorink.com/",
-              "source": "Creator Ink"
-            },
-            {
-              "title": "Blue Call Me If You Get Lost Hoodie | Tyler The Creator Merch",
-              "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:3238799437142227518&ibp=oshop",
-              "source": "Google"
-            },
-            {
-              "title": "Spring. For creators.: Create with Spring, sell on social",
-              "link": "https://www.spri.ng",
-              "source": "Spring. For creators."
-            },
-            {
-              "title": "Bonfire: Design your own custom merch the easy way",
-              "link": "https://www.bonfire.com",
-              "source": "Bonfire"
-            },
-            {
-              "title": "Merch Maker | Free Way to Sell Merch for Creators - Teemill",
-              "link": "https://teemill.com",
-              "source": "Teemill"
-            },
-            {
-              "title": "Well Done Goods",
-              "link": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOek0ydG1lV2QwGAo",
-              "source": "Google"
-            },
-            {
-              "title": "Mato \\u0026 Hash Custom T-Shirts \\u0026 Embroidery",
-              "link": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdnd04yTmlYelEzGAo",
-              "source": "Google"
-            },
-            {
-              "title": "Underground Printing",
-              "link": "https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdSb2JXaG5ZZxgK",
-              "source": "Google"
-            }
-          ],
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
           "featured_snippet_text": "",
-          "people_also_ask": [
-            {
-              "question": "Does Tyler the Creator have a merch store?",
-              "snippet": ""
-            },
-            {
-              "question": "How can I create my own merch store?",
-              "snippet": ""
-            },
-            {
-              "question": "Where can I find a content creator merch shop?",
-              "snippet": ""
-            },
-            {
-              "question": "Where do YouTubers create their merch?",
-              "snippet": ""
-            }
-          ],
-          "related_searches": [
-            "Creator merch store canada",
-            "Creator merch store online",
-            "Create your own merch for free",
-            "Create your own merch store",
-            "Teespring",
-            "Creator merch store hoodies",
-            "Best merch making websites",
-            "Free merch store"
-          ],
-          "competitors": [
-            {
-              "position": 1,
-              "title": "Creator Merch | The latest merch from your favourite creators",
-              "source": "Creator Merch",
-              "link": "https://creatormerch.com/?srsltid\\u003dafmboooksw5hefssvwajqzknpdl6lqodpo0oubqvx9uhncovbr1rdsdq"
-            },
-            {
-              "position": 2,
-              "title": "Creator Ink",
-              "source": "Creator Ink",
-              "link": "https://creatorink.com/"
-            },
-            {
-              "position": 3,
-              "title": "Influencer Merch for Sale | Shirts, Sweatshirts & More",
-              "source": "Bonfire",
-              "link": "https://www.bonfire.com/shop/creators/?srsltid\\u003dafmbooppjyk59oranshtslm5gpho8yxehwilsbkz675fzibc"
-            },
-            {
-              "position": 4,
-              "title": "15 Best YouTuber Merch Stores To Get Inspiration",
-              "source": "Fourthwall",
-              "link": "https://fourthwall.com/blog/6-best-youtube-merch-websites-and-how-to-launch-your-own"
-            },
-            {
-              "position": 5,
-              "title": "Free Merch Maker | Design custom merchandise with ...",
-              "source": "Printify",
-              "link": "https://printify.com/free-merch-maker/"
-            }
-          ],
-          "total_results": 0,
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
           "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
@@ -224,122 +74,14 @@
           "ai_overview_cited": false,
           "ai_overview_snippet": "",
           "ai_mode_cited": false,
-          "ai_mode_answer": "Content creator merchandise is an essential revenue stream and community\\-building tool that allows fans to support their favorite influencers while wearing or using branded items. In the creator economy, successful merch goes beyond slapping a basic logo on a cheap t\\-shirt. It leverages inside jokes, channel catchphrases, and high\\-quality streetwear aesthetics to create products fans actually want to wear in public. \\(https://www.youtube.com/\\)\n\n### 🌟 Top Platforms to Launch Creator Merch\n\nCr",
-          "ai_mode_references": [
-            {
-              "title": "How to Create and Sell Merch as a Small Content Creator",
-              "link": "https://www.youtube.com",
-              "source": "YouTube"
-            },
-            {
-              "title": "15 Successful YouTuber Merch Stores to Get Inspiration",
-              "link": "https://www.printful.com",
-              "source": "Printful"
-            },
-            {
-              "title": "How to Make Merch Like Your Favorite Creators in 2026",
-              "link": "https://fourthwall.com",
-              "source": "Fourthwall"
-            },
-            {
-              "title": "Custom Merch for Content Creators",
-              "link": "https://www.customink.com",
-              "source": "Custom Ink"
-            },
-            {
-              "title": "How Influencers \\u0026 Creators Can Build a Successful Merch Store",
-              "link": "https://www.superiorinkprinting.com",
-              "source": "Superior Ink Printing"
-            },
-            {
-              "title": "Looking to start selling merch, what print-on-demand companies have you used?",
-              "link": "https://www.reddit.com",
-              "source": "Reddit"
-            },
-            {
-              "title": "Best Ecommerce Platforms for Creators in 2026 - Ecomm.Design",
-              "link": "https://ecomm.design",
-              "source": "ecomm.design"
-            },
-            {
-              "title": "Best Print on Demand Companies 2026: My Honest Shortlist",
-              "link": "https://mydesigns.io",
-              "source": "MyDesigns.io"
-            },
-            {
-              "title": "How To Make Merch For FREE in 2026",
-              "link": "https://www.youtube.com/watch?v=RuApm6HKafg",
-              "source": "YouTube"
-            },
-            {
-              "title": "Best Print-on-Demand Platforms for Custom Merch in 2026",
-              "link": "https://apexpatches.com/best-print-on-demand-platforms-for-custom-merch-in-2026/",
-              "source": "apexpatches.com"
-            }
-          ],
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
           "featured_snippet_text": "",
-          "people_also_ask": [
-            {
-              "question": "Where can I find a content creator merch shop?",
-              "snippet": ""
-            },
-            {
-              "question": "What is the most sold merch for YouTubers?",
-              "snippet": ""
-            },
-            {
-              "question": "What merch is trending right now?",
-              "snippet": ""
-            },
-            {
-              "question": "Which influencer has the best merch?",
-              "snippet": ""
-            }
-          ],
-          "related_searches": [
-            "Free content creator merchandise",
-            "Content creator merchandise online",
-            "Content creator merchandise amazon",
-            "Women content creator merchandise",
-            "Content creator merchandise for sale",
-            "Best content creator merchandise",
-            "Create your own merch for free",
-            "Men content creator merchandise"
-          ],
-          "competitors": [
-            {
-              "position": 1,
-              "title": "Looking to start selling merch, what print-on-demand ...",
-              "source": "Reddit · r/PartneredYoutube",
-              "link": "https://www.reddit.com/r/partneredyoutube/comments/1c3s3dp/looking_to_start_selling_merch_what_print"
-            },
-            {
-              "position": 2,
-              "title": "Creator Merch | The latest merch from your favourite creators",
-              "source": "Creator Merch",
-              "link": "https://creatormerch.com/?srsltid\\u003dafmbooqos-vbcb5vyhjqdnu_qiocd4vx6e1tavygpde_6n1nwl0fvhvn"
-            },
-            {
-              "position": 3,
-              "title": "Influencer Merch for Sale | Shirts, Sweatshirts & More",
-              "source": "Bonfire",
-              "link": "https://www.bonfire.com/shop/creators/?srsltid\\u003dafmboopn051jq40lkzp6hcy-1fsrspy1j8pfa4pysdkj53bo"
-            },
-            {
-              "position": 4,
-              "title": "Make Youtube Merch | Free Merch Store Creator",
-              "source": "Teemill",
-              "link": "https://teemill.com/youtube-creator-merch/"
-            },
-            {
-              "position": 5,
-              "title": "Amazon Merch on Demand",
-              "source": "Amazon Merch on Demand",
-              "link": "https://merch.amazon.com/"
-            }
-          ],
-          "total_results": 201,
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
           "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
@@ -355,122 +97,14 @@
           "ai_overview_cited": false,
           "ai_overview_snippet": "",
           "ai_mode_cited": false,
-          "ai_mode_answer": "Whether you are a creator looking to launch your own merchandise store or a fan trying to buy official gear from your favorite internet personalities, there are separate pathways for both. \\(https://merchone.com/\\)\n\n### 🛠️ Best Platforms to Launch a YouTuber Merch Shop\n\nIf you are a creator looking to build a storefront with zero upfront inventory costs, these platforms integrate directly with the YouTube Shopping product shelf: \\(https://www.youtube.com/\\)\n\n- [Fourthwall](https://fourthwall.com",
-          "ai_mode_references": [
-            {
-              "title": "YouTuber Merch Store: Niche",
-              "link": "https://merchone.com",
-              "source": "merchOne"
-            },
-            {
-              "title": "Best Merch Stores and Platforms for Launching, Selling, and ...",
-              "link": "https://influencermarketinghub.com",
-              "source": "Influencer Marketing Hub"
-            },
-            {
-              "title": "YouTube Channel Merchandise Store is now Open (click ...",
-              "link": "https://www.youtube.com",
-              "source": "YouTube"
-            },
-            {
-              "title": "Best YouTube Product Shelf Platforms in 2026",
-              "link": "https://ecommerce-platforms.com",
-              "source": "ecommerce-platforms.com"
-            },
-            {
-              "title": "Shop YouTuber Shirts \\u0026 Hoodies | Bonfire",
-              "link": "https://www.bonfire.com",
-              "source": "Bonfire"
-            },
-            {
-              "title": "The 8 Best Merch Websites for Selling Custom Designs in 2026",
-              "link": "https://www.bonfire.com/blog/best-merch-websites/",
-              "source": "Bonfire"
-            },
-            {
-              "title": "15 Successful YouTuber Merch Stores to Get Inspiration",
-              "link": "https://www.printful.com",
-              "source": "Printful"
-            },
-            {
-              "title": "The ONLY Official Merch Store for MrBeast in the world",
-              "link": "https://mrbeast.store/",
-              "source": "MrBeast.store"
-            },
-            {
-              "title": "YouTuber merch: 10 Best stores, top items, and design tips",
-              "link": "https://printify.com",
-              "source": "Printify"
-            },
-            {
-              "title": "Fire Merch \\u0026 Bri Merch Official Store - PrestonPlayz, Brianna ...",
-              "link": "https://www.firemerch.com/?srsltid=AfmBOopHorX6RAirYpzGweyHDHNjoORTrfgQ66wCHp02KPDbA3tXk32T",
-              "source": "fire merch"
-            }
-          ],
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
           "featured_snippet_text": "",
-          "people_also_ask": [
-            {
-              "question": "What merch store do YouTubers use?",
-              "snippet": ""
-            },
-            {
-              "question": "Where do YouTubers get their merch from?",
-              "snippet": ""
-            },
-            {
-              "question": "Does anyone actually buy YouTuber merch?",
-              "snippet": ""
-            },
-            {
-              "question": "What is the most popular YouTuber merch?",
-              "snippet": ""
-            }
-          ],
-          "related_searches": [
-            "Youtuber merch shop online",
-            "Top 10 YouTuber merch",
-            "Youtuber merch shop canada",
-            "Youtuber merch shop reddit",
-            "Youtuber merch Plush",
-            "YouTube Store online",
-            "Best youtuber merch hoodies",
-            "Men youtuber merch shop"
-          ],
-          "competitors": [
-            {
-              "position": 1,
-              "title": "YouTube | Google Merch Shop",
-              "source": "Google Merch Shop",
-              "link": "https://shop.merch.google/shop/shop-by-brand/youtube?srsltid\\u003dafmboor8omo8slpcn5mjxqxpch9kga5tds"
-            },
-            {
-              "position": 2,
-              "title": "Does anyone here do merch for your channel? : r/NewTubers",
-              "source": "Reddit · r/NewTubers",
-              "link": "https://www.reddit.com/r/newtubers/comments/16pqabn/does_anyone_here_do_merch_for_your_channel/"
-            },
-            {
-              "position": 3,
-              "title": "Creator Merch | The latest merch from your favourite creators",
-              "source": "Creator Merch",
-              "link": "https://creatormerch.com/?srsltid\\u003dafmbooovbkvtkzr-qufdh8t3q6whxmjbnvajcwzumc-fbox2vapyjx8c"
-            },
-            {
-              "position": 4,
-              "title": "15 Best YouTuber Merch Stores To Get Inspiration",
-              "source": "Fourthwall",
-              "link": "https://fourthwall.com/blog/6-best-youtube-merch-websites-and-how-to-launch-your-own"
-            },
-            {
-              "position": 5,
-              "title": "Shop YouTuber Shirts & Hoodies",
-              "source": "Bonfire",
-              "link": "https://www.bonfire.com/shop/creators/youtube/?srsltid\\u003dafmbooog_p-dc9mbanbxcekmouhciv5vxih41o_m"
-            }
-          ],
-          "total_results": 192,
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
           "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
@@ -486,117 +120,14 @@
           "ai_overview_cited": false,
           "ai_overview_snippet": "",
           "ai_mode_cited": false,
-          "ai_mode_answer": "To start a print\\-on\\-demand \\(POD\\) creator store, you need to choose between two main routes: POD Companies \\(where you connect fulfillment to your own storefront\\) or POD Marketplaces \\(where you upload designs directly to an existing platform\\). \\(https://www.michaelessek.com/\\)\n\n### 1. Print\\-On\\-Demand Platforms \\(Connect to Your Store\\)\n\nThese act as the backend fulfillment. You integrate them with platforms like [Shopify](https://www.shopify.com/blog/print-on-demand), [Wix](https://www.w",
-          "ai_mode_references": [
-            {
-              "title": "My 11 BEST Print on Demand Companies \\u0026 Sites (August 2026)",
-              "link": "https://www.michaelessek.com",
-              "source": "Michael Essek"
-            },
-            {
-              "title": "What are some good print on demand type sites? : r/Design",
-              "link": "https://www.reddit.com",
-              "source": "Reddit"
-            },
-            {
-              "title": "Print on Demand: What It Is \\u0026 How To Start (2026) - Shopify",
-              "link": "https://www.shopify.com/blog/print-on-demand",
-              "source": "Shopify"
-            },
-            {
-              "title": "Print on demand | Design your own products | Wix eCommerce",
-              "link": "https://www.wix.com/ecommerce/print-on-demand",
-              "source": "Wix.com"
-            },
-            {
-              "title": "Printful: Custom Print On Demand \\u0026 Dropshipping",
-              "link": "https://www.printful.com/",
-              "source": "Printful"
-            },
-            {
-              "title": "Print on Demand – start your online business",
-              "link": "https://printify.com/print-on-demand/",
-              "source": "Printify"
-            },
-            {
-              "title": "Custom Print on Demand Hoodie",
-              "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:2010711564145786062,catalogid:834582686330813102,gpcid:8506000295061490576&ibp=oshop",
-              "source": "Google"
-            },
-            {
-              "title": "Amazon Merch on Demand",
-              "link": "https://merch.amazon.com/",
-              "source": "Amazon Merch on Demand"
-            },
-            {
-              "title": "What is print-on-demand? How a POD store works? - Wix.com",
-              "link": "https://www.wix.com",
-              "source": "Wix.com"
-            }
-          ],
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
           "featured_snippet_text": "",
-          "people_also_ask": [
-            {
-              "question": "How much does it cost to start a print-on-demand store?",
-              "snippet": ""
-            },
-            {
-              "question": "What are the best online stores for print-on-demand?",
-              "snippet": ""
-            },
-            {
-              "question": "Is print-on-demand still profitable in 2026?",
-              "snippet": ""
-            },
-            {
-              "question": "What is the most profitable print-on-demand sites?",
-              "snippet": ""
-            }
-          ],
-          "related_searches": [
-            "Print on demand creator store reviews",
-            "Print on demand creator store online",
-            "Print on demand creator store t shirts",
-            "Best print on demand creator store",
-            "Free print on demand creator store",
-            "Print on demand websites",
-            "Print on demand creator store canada",
-            "Print on demand dropshipping"
-          ],
-          "competitors": [
-            {
-              "position": 1,
-              "title": "Printful: Custom Print On Demand & Dropshipping",
-              "source": "Printful",
-              "link": "https://www.printful.com/ca"
-            },
-            {
-              "position": 2,
-              "title": "Print on Demand – start your online business",
-              "source": "Printify",
-              "link": "https://printify.com/print-on-demand/"
-            },
-            {
-              "position": 3,
-              "title": "My 11 BEST Print on Demand Companies & Sites (August ...",
-              "source": "Michael Essek",
-              "link": "https://www.michaelessek.com/print-on-demand-companies/"
-            },
-            {
-              "position": 4,
-              "title": "Amazon Merch on Demand",
-              "source": "Amazon Merch on Demand",
-              "link": "https://merch.amazon.com/"
-            },
-            {
-              "position": 5,
-              "title": "The New Way To Start A Print On Demand Store For FREE",
-              "source": "YouTube · Wholesale Ted",
-              "link": "https://www.google.com/goto?url=caesywhrozav49ejtdalr9eqjw-vaxwcz_vfru8a2dnf5a5ccxqy0v7ukst-zi-_55ov"
-            }
-          ],
-          "total_results": 110,
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
           "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
@@ -612,122 +143,14 @@
           "ai_overview_cited": false,
           "ai_overview_snippet": "",
           "ai_mode_cited": false,
-          "ai_mode_answer": "To launch or scale custom merchandise for your channel, you should use print\\-on\\-demand \\(POD\\) platforms that integrate directly with social media product shelves. This model eliminates upfront inventory costs, meaning products are printed and shipped only when a fan makes a purchase. \\(https://teemill.com/\\)\n\nThe industry is split into all\\-in\\-one standalone store builders \\(best for social integration\\) and fulfillment apps \\(best if you already use Shopify or Etsy\\). \\(https://www.michaele",
-          "ai_mode_references": [
-            {
-              "title": "Make Youtube Merch | Free Merch Store Creator - Teemill",
-              "link": "https://teemill.com",
-              "source": "Teemill"
-            },
-            {
-              "title": "Looking to start selling merch, what print-on-demand ... - Reddit",
-              "link": "https://www.reddit.com",
-              "source": "Reddit"
-            },
-            {
-              "title": "My 11 BEST Print on Demand Companies \\u0026 Sites (August 2026)",
-              "link": "https://www.michaelessek.com",
-              "source": "Michael Essek"
-            },
-            {
-              "title": "How to Make Merch for Youtube in 2024: Make Merch for Free",
-              "link": "https://printify.com",
-              "source": "Printify"
-            },
-            {
-              "title": "A Custom Merch Platform for the Worlds Top Creators | Bonfire",
-              "link": "https://www.bonfire.com",
-              "source": "Bonfire"
-            },
-            {
-              "title": "The Best Creator Commerce \\u0026 Fan Monetization Platform",
-              "link": "https://www.youtube.com",
-              "source": "YouTube"
-            },
-            {
-              "title": "Top 7 Merch-on-Demand Platforms for Amazon Sellers (2026)",
-              "link": "https://www.printondemandbusiness.com",
-              "source": "PrintOnDemandBusiness.com"
-            },
-            {
-              "title": "Best Print-on-Demand Platforms for Custom Merch in 2026",
-              "link": "https://apexpatches.com",
-              "source": "apexpatches.com"
-            },
-            {
-              "title": "Best POD Sites for Influencer Merch in 2026",
-              "link": "https://ecommerce-platforms.com",
-              "source": "ecommerce-platforms.com"
-            },
-            {
-              "title": "8 Best Print on Demand Companies 2026: Ranked for Sellers ...",
-              "link": "https://merchone.com",
-              "source": "merchOne"
-            }
-          ],
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
           "featured_snippet_text": "",
-          "people_also_ask": [
-            {
-              "question": "What are some popular merch stores for content creators?",
-              "snippet": ""
-            },
-            {
-              "question": "What type of merch sells the most?",
-              "snippet": ""
-            },
-            {
-              "question": "What are some good merch ideas?",
-              "snippet": ""
-            },
-            {
-              "question": "What merch is trending right now?",
-              "snippet": ""
-            }
-          ],
-          "related_searches": [
-            "Merch for content creators reddit",
-            "Best merch for content creators",
-            "Men merch for content creators",
-            "Merch by Amazon",
-            "Create your own merch for free",
-            "Merch by Amazon T-shirt",
-            "Merch on Demand",
-            "Merch Dominator"
-          ],
-          "competitors": [
-            {
-              "position": 1,
-              "title": "Recommendation for a content creator selling merch",
-              "source": "Reddit · r/printondemand",
-              "link": "https://www.reddit.com/r/printondemand/comments/1p9hra1/recommendation_for_a_content_creator_selling"
-            },
-            {
-              "position": 2,
-              "title": "Amazon Merch on Demand",
-              "source": "Amazon Merch on Demand",
-              "link": "https://merch.amazon.com/"
-            },
-            {
-              "position": 3,
-              "title": "Bonfire: Design your own custom merch the easy way",
-              "source": "Bonfire",
-              "link": "https://www.bonfire.com/?srsltid\\u003dafmbooqvlgvtrwmjcp7hnn1aku6loefib2iejpjuvygoz5ndwokoswd-"
-            },
-            {
-              "position": 4,
-              "title": "15 Successful YouTuber Merch Stores to Get Inspiration",
-              "source": "Printful",
-              "link": "https://www.printful.com/ca/blog/youtuber-merch"
-            },
-            {
-              "position": 5,
-              "title": "Make Youtube Merch | Free Merch Store Creator",
-              "source": "Teemill",
-              "link": "https://teemill.com/youtube-creator-merch/"
-            }
-          ],
-          "total_results": 199,
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
           "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
@@ -743,134 +166,15 @@
           "ai_overview_cited": false,
           "ai_overview_snippet": "",
           "ai_mode_cited": false,
-          "ai_mode_answer": "### Top Custom Merch Platforms for YouTubers\n\nChoosing the right partner depends entirely on whether you want a seamless native integration, absolute control over your store's branding, or eco\\-friendly sourcing. \\(https://www.google.com/goto?url=CAESoAEB6zswFcYeLnaJSPAyEcRbpqAzVGzRdnZ\\_8\\_18RMYX7zqJFnqqp5It8MHEsNPOa4wj\\-yJIGFGiMXpQZzm\\_\\-3Z8xJIaofGnjgI6lLHZARnVhdAW2uOEnlhHkcXJhhb11yf4i5gkXiGC6xWQjrDxXwikHIjeoyagdp1KGNvTtZRwBh3fwWd2VWzofsvSYH3xvw4yk01NymD2D3J1az2GwCM\\_\\) [0] [1]\n\nTo pick a platf",
-          "ai_mode_references": [
-            {
-              "title": "Make Youtube Merch | Free Merch Store Creator - Teemill",
-              "link": "https://teemill.com/youtube-creator-merch/#:~:text=Grow%20your%20channel%20with%20custom%2Dprinted%2C,as%20caps%20and%20bags.",
-              "source": "Teemill"
-            },
-            {
-              "title": "Best YouTube Product Shelf Platforms in 2026",
-              "link": "https://ecommerce-platforms.com/articles/best-youtube-product-shelf-platforms#:~:text=Best%20all%2Din%2Done,POD%20store%20with%20direct%20YouTube",
-              "source": "ecommerce-platforms.com"
-            },
-            {
-              "title": "How to Make Merch for YouTube in 2026 - Fourthwall",
-              "link": "https://fourthwall.com/blog/how-to-make-merch-for-youtube#:~:text=Zero%20upfront%20costs,hats%2C%20and%20stickers.",
-              "source": "Fourthwall"
-            },
-            {
-              "title": "How To Make Merch For FREE in 2026",
-              "link": "https://www.youtube.com/watch?v=RuApm6HKafg#:~:text=Fourth%20Wall%20offers,and%20featured%20products%2C",
-              "source": "YouTube"
-            },
-            {
-              "title": "8 Best Print on Demand Companies 2026: Ranked for Sellers ...",
-              "link": "https://merchone.com/blog/best-print-on-demand-companies/#:~:text=The%20eight%20print%20on%20demand,cut%2Dand%2Dsew%2C%20AOP.",
-              "source": "merchOne"
-            },
-            {
-              "title": "Does anyone here do merch for your channel? : r/NewTubers",
-              "link": "https://www.reddit.com/r/NewTubers/comments/16pqabn/does_anyone_here_do_merch_for_your_channel/#:~:text=allow%20you%20to%20build%20a,fully%20branded%20to%20you",
-              "source": "Reddit"
-            },
-            {
-              "title": "Make and sell merch for your YouTube channel - Bonfire",
-              "link": "https://www.bonfire.com/sell-online/youtube/#:~:text=all%20YouTube%20creators,buyers.",
-              "source": "Bonfire"
-            },
-            {
-              "title": "YouTube Shopping affiliate program overview \\u0026 eligibility",
-              "link": "https://support.google.com/youtube/answer/13376398?hl=en&co=GENIE.Platform%3DAndroid#:~:text=The%20YouTube%20Shopping%20affiliate,while%20they%20checkout",
-              "source": "Google Help"
-            },
-            {
-              "title": "YouTube Merch Tools - TubeAnalytics",
-              "link": "https://www.tubeanalytics.net/blog/best-youtube-creator-tools-merchandise-sales#:~:text=Teespring%2C%20Printful%2C,growth%20decisions.",
-              "source": "TubeAnalytics"
-            },
-            {
-              "title": "YouTube Shopping Affiliate Program 🛍️",
-              "link": "https://www.youtube.com/shorts/i3a8oMot174#:~:text=the%20YouTube%20Shopping%20Affiliate,while%20you%20earn%20commission",
-              "source": "YouTube"
-            }
-          ],
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
           "featured_snippet_text": "",
-          "people_also_ask": [
-            {
-              "question": "How do YouTubers make their own merch?",
-              "snippet": ""
-            },
-            {
-              "question": "Where do YouTubers get their merch from?",
-              "snippet": ""
-            },
-            {
-              "question": "What merch store do YouTubers use?",
-              "snippet": ""
-            },
-            {
-              "question": "How do I get merch for my YouTube channel?",
-              "snippet": ""
-            }
-          ],
-          "related_searches": [
-            "Custom merch for youtubers reddit",
-            "Custom merch for youtubers online",
-            "Best custom merch for youtubers",
-            "How to make merch for YouTube for free",
-            "Top 10 YouTuber merch",
-            "YouTube merch shelf",
-            "How to sell merch on YouTube",
-            "Create your own merch for free"
-          ],
-          "competitors": [
-            {
-              "position": 1,
-              "title": "Looking to start selling merch, what print-on-demand ...",
-              "source": "Reddit · r/PartneredYoutube",
-              "link": "https://www.reddit.com/r/partneredyoutube/comments/1c3s3dp/looking_to_start_selling_merch_what_print"
-            },
-            {
-              "position": 2,
-              "title": "Make and sell merch for your YouTube channel",
-              "source": "Bonfire",
-              "link": "https://www.bonfire.com/sell-online/youtube/?srsltid\\u003dafmboork_62xmv1jano6e8jhyxsu2kt9ll10n1sqti"
-            },
-            {
-              "position": 3,
-              "title": "Sell Custom YouTube® Merch with Shopify",
-              "source": "Printful",
-              "link": "https://www.printful.com/ca/youtube-merch-shelf"
-            },
-            {
-              "position": 4,
-              "title": "How to Make Merch for Youtube in 2024",
-              "source": "Printify",
-              "link": "https://printify.com/free-merch-maker/youtubers/"
-            },
-            {
-              "position": 5,
-              "title": "Make Youtube Merch | Free Merch Store Creator",
-              "source": "Teemill",
-              "link": "https://teemill.com/youtube-creator-merch/"
-            }
-          ],
-          "total_results": 200,
-          "discussions_forums": [
-            {
-              "title": "Does anyone here do merch for your channel?",
-              "source": "Reddit",
-              "link": "https://www.google.com/goto?url=CAESlwEB6zswFUIt0E8sG1RiSg_mKBIEKo31iLX2sRVsikNclgHmg9WosQUHdkeQkaJQ"
-            },
-            {
-              "title": "Where to get custom merchandise for a YouTube channel?",
-              "source": "Facebook",
-              "link": "https://www.google.com/goto?url=CAESfwHrOzAVwi1va36-_YoHsBbW1WiDolROHHgIb5XY53TdOQV8Lb0oML-vZY70ZOiv"
-            }
-          ],
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
+          "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
           "gemini_cited": false,
@@ -885,134 +189,15 @@
           "ai_overview_cited": false,
           "ai_overview_snippet": "",
           "ai_mode_cited": false,
-          "ai_mode_answer": "Choosing the right creator merchandise platform depends entirely on your audience size, how much technical setup you want to handle, and who you want to own the customer relationship.\n\nThe industry is divided into three primary categories. Here is a breakdown of the top platforms available to creators right now:\n\n### 🎨 All\\-in\\-One Creator Storefronts\n\nBest for YouTubers, streamers, and podcasters who want a fully branded, professional shop with zero inventory risk.\n\n- Fourthwall:\n  - Standout F",
-          "ai_mode_references": [
-            {
-              "title": "Content Creator Merch Platforms Compared",
-              "link": "https://shops.beargrips.com",
-              "source": "BearGrips"
-            },
-            {
-              "title": "The Best Creator Commerce \\u0026 Fan Monetization Platform",
-              "link": "https://www.youtube.com",
-              "source": "YouTube"
-            },
-            {
-              "title": "Spring. For creators.: Create with Spring, sell on social",
-              "link": "https://www.spri.ng/",
-              "source": "Spring. For creators."
-            },
-            {
-              "title": "What online merch creation platforms are available? - Facebook",
-              "link": "https://www.facebook.com",
-              "source": "Facebook"
-            },
-            {
-              "title": "Bonfire: Design your own custom merch the easy way",
-              "link": "https://www.bonfire.com/",
-              "source": "Bonfire"
-            },
-            {
-              "title": "The 8 Best Merch Websites for Selling Custom Designs in 2026",
-              "link": "https://www.bonfire.com",
-              "source": "Bonfire"
-            },
-            {
-              "title": "Free Merch Maker | Design custom merchandise with Printify",
-              "link": "https://printify.com/free-merch-maker/",
-              "source": "Printify"
-            },
-            {
-              "title": "Merch Maker - Printful",
-              "link": "https://www.printful.com/merch-maker",
-              "source": "Printful"
-            },
-            {
-              "title": "Amazon Merch on Demand",
-              "link": "https://merch.amazon.com/",
-              "source": "Amazon Merch on Demand"
-            },
-            {
-              "title": "10 Best Platforms to Launch Your Branded Merchandise",
-              "link": "https://custom.sockclub.com",
-              "source": "Custom Sock Club"
-            }
-          ],
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
           "featured_snippet_text": "",
-          "people_also_ask": [
-            {
-              "question": "What is the best website for creating merch?",
-              "snippet": ""
-            },
-            {
-              "question": "What app can I use to create merch?",
-              "snippet": ""
-            },
-            {
-              "question": "Where do YouTubers create their merch?",
-              "snippet": ""
-            },
-            {
-              "question": "What is the most profitable print-on-demand company?",
-              "snippet": ""
-            }
-          ],
-          "related_searches": [
-            "Create your own merch for free",
-            "Best merch making websites",
-            "Creator merchandise platform hoodie",
-            "Sell merchandise online for free",
-            "Teespring",
-            "Merch design maker",
-            "Custom merch for small business",
-            "Spring merch creator"
-          ],
-          "competitors": [
-            {
-              "position": 1,
-              "title": "Bonfire: Design your own custom merch the easy way",
-              "source": "Bonfire",
-              "link": "https://www.bonfire.com/?srsltid\\u003dafmboorfb1ty2wtyq2xcen9iy4ey7ys2v2e2fu35i-mceqluuclkxghr"
-            },
-            {
-              "position": 2,
-              "title": "10 Best Platforms to Launch Your Branded Merchandise",
-              "source": "Custom Sock Club",
-              "link": "https://custom.sockclub.com/blogs/10-best-branded-merch-store-platforms-for-creators?srsltid\\u003daf"
-            },
-            {
-              "position": 3,
-              "title": "Create with Spring, sell on social - Spring. For creators.",
-              "source": "Spring. For creators.",
-              "link": "https://www.spri.ng/"
-            },
-            {
-              "position": 4,
-              "title": "Free Merch Maker | Design custom merchandise with ...",
-              "source": "Printify",
-              "link": "https://printify.com/free-merch-maker/"
-            },
-            {
-              "position": 5,
-              "title": "The 9 Best Creator Merch Platforms in 2025",
-              "source": "Vexels",
-              "link": "https://www.vexels.com/blog/the-9-best-creator-merch-platforms/"
-            }
-          ],
-          "total_results": 205,
-          "discussions_forums": [
-            {
-              "title": "What is the best platform to create merch?",
-              "source": "Reddit",
-              "link": "https://www.google.com/goto?url=CAESnAEB6zswFQWzr87aJUPFKYwhpblUsSEq3o_PPda3VZ05-qdYDBr_N1k6wU-PSAd0"
-            },
-            {
-              "title": "Is there a Canadian option for content creators wanting to make merch?",
-              "source": "Reddit",
-              "link": "https://www.google.com/goto?url=CAESnwEB6zswFe8PUhjyWh_9Hu8d8s1kpKGHB_dsB80TLWRNLQz14T0XVeoO4eFRC7UQ"
-            }
-          ],
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
+          "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
           "gemini_cited": false,
@@ -1027,90 +212,14 @@
           "ai_overview_cited": false,
           "ai_overview_snippet": "",
           "ai_mode_cited": false,
-          "ai_mode_answer": "The landscape of AI merchandise and t\\-shirt design is divided between all\\-in\\-one graphic design suites tailored for Print\\-on\\-Demand \\(POD\\) and specialized AI image generators.\n\nHere are the top tools currently leading the AI merch design space, categorized by how they fit into your creative workflow.\n\n### All\\-in\\-One Graphic Suites \\(Best for Print\\-Ready Merch\\)\n\nThese platforms combine AI image generation with full editing tools like background removers, vectorizers, and text typography",
-          "ai_mode_references": [
-            {
-              "title": "Free Online T-Shirt Design Maker - Create Custom T-shirt | Kittl",
-              "link": "https://www.kittl.com/create/t-shirts",
-              "source": "Kittl"
-            },
-            {
-              "title": "The NEW Way To Create T-Shirt Designs in Seconds ...",
-              "link": "https://www.youtube.com",
-              "source": "YouTube"
-            },
-            {
-              "title": "AI Design Generator for T-Shirts \\u0026 Merch | Create Everything",
-              "link": "https://www.vexels.com/ai-design-generator-tool",
-              "source": "Vexels"
-            },
-            {
-              "title": "How to Use AI for T-Shirt Design | Adobe Express",
-              "link": "https://www.adobe.com/uk/express/discover/how-to/ai/design/t-shirt",
-              "source": "Adobe"
-            },
-            {
-              "title": "Ai Shirt Design Generator",
-              "link": "https://starryai.com/en/pages/ai-shirt-design-generator",
-              "source": "StarryAI"
-            },
-            {
-              "title": "GPTShirt.ai: AI Shirt Maker \\u0026 AI T-Shirt Design AI",
-              "link": "https://gptshirt.ai/",
-              "source": "GPTShirt.ai"
-            },
-            {
-              "title": "AI T-Shirt Design Generator | RushOrderTees",
-              "link": "https://www.rushordertees.com/ai/",
-              "source": "RushOrderTees"
-            }
-          ],
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
           "featured_snippet_text": "",
           "people_also_ask": [],
-          "related_searches": [
-            "Ai merch design tool free",
-            "Best ai merch design tool",
-            "Ai merch design tool online free",
-            "Ai merch design tool online",
-            "Ai merch design tool reddit",
-            "AI t-shirt design free",
-            "AI t-shirt design generator",
-            "T-shirt design template free"
-          ],
-          "competitors": [
-            {
-              "position": 1,
-              "title": "Free Online T-Shirt Design Maker - Create Custom T-shirt",
-              "source": "Kittl",
-              "link": "https://www.kittl.com/create/t-shirts"
-            },
-            {
-              "position": 2,
-              "title": "Which AI is best for creating great t-shirt designs in your ...",
-              "source": "Reddit · r/AmazonMerch",
-              "link": "https://www.reddit.com/r/amazonmerch/comments/1m522w4/which_ai_is_best_for_creating_great_tshirt/"
-            },
-            {
-              "position": 3,
-              "title": "AI T-Shirt Design Maker - Free Online Custom ...",
-              "source": "Krea",
-              "link": "https://www.krea.ai/apps/image/t-shirt-design-maker"
-            },
-            {
-              "position": 4,
-              "title": "T-Shirt Design Maker - Design a T-Shirt Online for Free",
-              "source": "Canva",
-              "link": "https://www.canva.com/create/t-shirts/"
-            },
-            {
-              "position": 5,
-              "title": "GPTShirt.ai: AI Shirt Maker & AI T-Shirt Design AI",
-              "source": "GPTShirt.ai",
-              "link": "https://gptshirt.ai/"
-            }
-          ],
-          "total_results": 115,
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
           "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
@@ -1126,112 +235,14 @@
           "ai_overview_cited": false,
           "ai_overview_snippet": "",
           "ai_mode_cited": false,
-          "ai_mode_answer": "Depending on whether you are looking to buy merchandise from your favorite content creators or wanting to launch a merchandise storefront for your own stream, the best options span across digital platforms and local boutique shops.\n\n### 🌐 Where to Buy Creator Merch Online\n\nMost Twitch, YouTube, and TikTok live\\-streamers do not have permanent physical retail stores. Instead, they sell exclusively online through specialized creator e\\-commerce platforms. If you are looking for specific creator ge",
-          "ai_mode_references": [
-            {
-              "title": "Custom Twitch Streamers Merch | No Minimums - Fourthwall",
-              "link": "https://fourthwall.com/make-your-own/twitch-streamers-merch",
-              "source": "Fourthwall"
-            },
-            {
-              "title": "Merch for streamers | Sell merchandise with SE.Merch by StreamElements",
-              "link": "https://streamelements.com/features/merch",
-              "source": "StreamElements"
-            },
-            {
-              "title": "Twitch Merchandise Store Support FAQ",
-              "link": "https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq",
-              "source": "Twitch"
-            },
-            {
-              "title": "Sell Custom Merch While You Stream | Streamlabs Merch Store",
-              "link": "https://streamlabs.com/merch?srsltid=AfmBOoriFvWwi2JJSikcDn23OHVz2ihdNTRqmbPPzgK-dhLGvefY3k_H",
-              "source": "Streamlabs"
-            },
-            {
-              "title": "Custom Twitch Streamers Apparel | No Minimums - Fourthwall",
-              "link": "https://fourthwall.com/make-your-own/twitch-streamers-apparel",
-              "source": "Fourthwall"
-            },
-            {
-              "title": "TOP 10 BEST Geek Stuff in Manhattan, NY - Updated 2026",
-              "link": "https://m.yelp.com",
-              "source": "Yelp"
-            },
-            {
-              "title": "Grand Slam New York",
-              "link": "https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdwbVl6VXhhZxgK",
-              "source": "Google"
-            },
-            {
-              "title": "Gaming Merchandise in NY? : r/AskNYC - Reddit",
-              "link": "https://www.reddit.com",
-              "source": "Reddit"
-            }
-          ],
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
           "featured_snippet_text": "",
-          "people_also_ask": [
-            {
-              "question": "What merch is good for streamers?",
-              "snippet": "Quick Answer Table: Best Twitch Merch Products"
-            },
-            {
-              "question": "How to make $1000 a month on Twitch?",
-              "snippet": "Can You Make $1000 a Month on Twitch? Yes, it's definitely possible with consistent effort and audience growth. For instance, 1,000 subscribers at the"
-            },
-            {
-              "question": "Where do YouTubers get their merch from?",
-              "snippet": "YouTuber merch: FAQ YouTubers make money from merch by selling branded products like apparel or accessories directly through their own online store. T"
-            },
-            {
-              "question": "Where can I buy Twitch merch?",
-              "snippet": ""
-            }
-          ],
-          "related_searches": [
-            "Streamer merchandise store canada",
-            "Streamer merchandise store online",
-            "Streamlabs merch store",
-            "Twitch merch Amazon",
-            "Men streamer merchandise store",
-            "Streamer merch ideas",
-            "StreamElements merch store",
-            "Twitch merch maker"
-          ],
-          "competitors": [
-            {
-              "position": 1,
-              "title": "Sell Custom Merch While You Stream",
-              "source": "Streamlabs",
-              "link": "https://streamlabs.com/merch?srsltid\\u003dafmboopekpdgcxqc54ipd93pd9eycwb2zfccavk_vi88x-vif3nrsjw7"
-            },
-            {
-              "position": 2,
-              "title": "Twitch Merchandise Store Support FAQ",
-              "source": "Twitch",
-              "link": "https://help.twitch.tv/s/article/twitch-merchandise-store-support-faq"
-            },
-            {
-              "position": 3,
-              "title": "Merch : r/Twitch",
-              "source": "Reddit · r/Twitch",
-              "link": "https://www.reddit.com/r/twitch/comments/1bdb2i8/merch/"
-            },
-            {
-              "position": 4,
-              "title": "Merch for streamers | Sell merchandise with SE.Merch by ...",
-              "source": "StreamElements",
-              "link": "https://streamelements.com/features/merch"
-            },
-            {
-              "position": 5,
-              "title": "Merch For Streamers | Create a Free Merch Store",
-              "source": "Teemill",
-              "link": "https://teemill.com/sell-custom-streamer-merch/"
-            }
-          ],
-          "total_results": 208,
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
           "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
@@ -1247,65 +258,14 @@
           "ai_overview_cited": false,
           "ai_overview_snippet": "",
           "ai_mode_cited": false,
-          "ai_mode_answer": "Most major podcasts host their merch shops online through platforms like Shopify or custom web storefronts rather than physical retail spaces. However, if you are looking to shop locally for generalized pop\\-culture merchandise, specialized record shop apparel, or need to print your own custom podcast merch, several excellent spots exist in the Houston area.\n\nIf you are looking for physical storefronts in Houston that offer pop\\-culture apparel, music\\-related gear, or custom printing services, ",
-          "ai_mode_references": [
-            {
-              "title": "713 Shirts",
-              "link": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdNeWEyMDVOREF5GAo",
-              "source": "Google"
-            },
-            {
-              "title": "The Pop Up Collective",
-              "link": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhKbmFITjNhak15GAo",
-              "source": "Google"
-            }
-          ],
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
           "featured_snippet_text": "",
           "people_also_ask": [],
-          "related_searches": [
-            "Podcast merch shop online",
-            "Podcast merch shop canada",
-            "Podcast merch shop hoodie",
-            "Best podcast merch",
-            "Good Hang podcast merch",
-            "Podcast merch website",
-            "Podcast merch Legion of skanks",
-            "Podcast shop"
-          ],
-          "competitors": [
-            {
-              "position": 1,
-              "title": "PodSwag — shirts and other merch from your favorite podcasts",
-              "source": "PodSwag",
-              "link": "https://www.podswag.com/?srsltid\\u003dafmbooopxhk-lxidm6nez3k5q-pacebnhawzcnfjcpxnr9or5oqcp4cw"
-            },
-            {
-              "position": 2,
-              "title": "Exactly Right Store: Exactly Right Media | Official Podcast ...",
-              "source": "Exactly Right Store",
-              "link": "https://exactlyrightstore.com/?srsltid\\u003dafmboor0e8lbviv-ucdo20de8enya09s6gfusu3-qs-zrq-niwpvpnau"
-            },
-            {
-              "position": 3,
-              "title": "Design Custom Podcast Merch & Grow Your Brand",
-              "source": "Printful",
-              "link": "https://www.printful.com/ca/podcast-merch"
-            },
-            {
-              "position": 4,
-              "title": "Custom Apparel for Podcasters Guide",
-              "source": "T-Shirt Elephant",
-              "link": "https://www.tshirtelephant.com/resource-guide/custom-apparel-podcasters-guide?srsltid\\u003dafmbooomp"
-            },
-            {
-              "position": 5,
-              "title": "LPOTL Merch",
-              "source": "LPOTL Merch",
-              "link": "https://lastpodcastmerch.com/"
-            }
-          ],
-          "total_results": 187,
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
           "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
@@ -1321,107 +281,14 @@
           "ai_overview_cited": false,
           "ai_overview_snippet": "",
           "ai_mode_cited": false,
-          "ai_mode_answer": "### The Leading Influencer Merchandise Platforms\n\nInfluencer merchandise platforms make it seamless for content creators, streamers, and internet personalities to manufacture, sell, and fulfill custom products without handling inventory. \\(https://vibeit.co/\\)\n\nChoosing the right platform depends entirely on how much control you want over website customization and profit margins: \\(https://www.reddit.com/\\)\n\n- [Fourthwall](https://fourthwall.com/blog/8-best-teespring-alternatives): Best all\\-in\\",
-          "ai_mode_references": [
-            {
-              "title": "Vibeit | Merch platform for influencers",
-              "link": "https://vibeit.co",
-              "source": "Vibeit"
-            },
-            {
-              "title": "Bonfire: Design your own custom merch the easy way",
-              "link": "https://www.bonfire.com/",
-              "source": "Bonfire"
-            },
-            {
-              "title": "Looking to start selling merch, what print-on-demand ... - Reddit",
-              "link": "https://www.reddit.com",
-              "source": "Reddit"
-            },
-            {
-              "title": "Best POD Sites to Sell Merch in 2026 - Ecommerce Platforms",
-              "link": "https://ecommerce-platforms.com",
-              "source": "ecommerce-platforms.com"
-            },
-            {
-              "title": "Spring. For creators.: Create with Spring, sell on social",
-              "link": "https://www.spri.ng",
-              "source": "Spring. For creators."
-            },
-            {
-              "title": "The BEST places to sell merch online in 2021",
-              "link": "https://www.youtube.com",
-              "source": "YouTube"
-            },
-            {
-              "title": "How do influencers create and sell your own merchandise?",
-              "link": "https://peaprint.com",
-              "source": "PeaPrint"
-            }
-          ],
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
           "featured_snippet_text": "",
-          "people_also_ask": [
-            {
-              "question": "What platform is best for influencers?",
-              "snippet": ""
-            },
-            {
-              "question": "Where do influencers get their clothes?",
-              "snippet": ""
-            },
-            {
-              "question": "Is there a marketplace for influencers?",
-              "snippet": ""
-            },
-            {
-              "question": "Where do YouTubers get their merch from?",
-              "snippet": ""
-            }
-          ],
-          "related_searches": [
-            "Sell merchandise online for free",
-            "Best merch websites",
-            "Merch by Amazon",
-            "Create your own merch for free",
-            "Best merch companies",
-            "Sell merch online",
-            "Amazon Merch on Demand",
-            "Teespring"
-          ],
-          "competitors": [
-            {
-              "position": 1,
-              "title": "Merch platform for influencers",
-              "source": "Vibeit",
-              "link": "https://vibeit.co/en/influencers"
-            },
-            {
-              "position": 2,
-              "title": "Influencer Merch Store",
-              "source": "Selldone",
-              "link": "https://selldone.com/business-ideas/influencer-merch-store"
-            },
-            {
-              "position": 3,
-              "title": "10 Best Platforms to Launch Your Branded Merchandise",
-              "source": "Custom Sock Club",
-              "link": "https://custom.sockclub.com/blogs/10-best-branded-merch-store-platforms-for-creators?srsltid\\u003daf"
-            },
-            {
-              "position": 4,
-              "title": "Influencer Merch & Content Creator Merch",
-              "source": "GiftAFeeling",
-              "link": "https://www.giftafeeling.com/pages/influencer-merch?srsltid\\u003dafmboopq1rj6edmgs65trekqzc_11oargsf"
-            },
-            {
-              "position": 5,
-              "title": "Elevate Your Brand with Exclusive Influencer Merch",
-              "source": "Real Thread",
-              "link": "https://www.realthread.com/blog/custom-influencer-merch"
-            }
-          ],
-          "total_results": 204,
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
           "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
@@ -1430,255 +297,45 @@
         }
       ],
       "discovery": {
-        "people_also_ask": [
-          {
-            "question": "Does Tyler the Creator have a merch store?",
-            "snippet": ""
-          },
-          {
-            "question": "How can I create my own merch store?",
-            "snippet": ""
-          },
-          {
-            "question": "Where can I find a content creator merch shop?",
-            "snippet": ""
-          },
-          {
-            "question": "Where do YouTubers create their merch?",
-            "snippet": ""
-          },
-          {
-            "question": "What is the most sold merch for YouTubers?",
-            "snippet": ""
-          },
-          {
-            "question": "What merch is trending right now?",
-            "snippet": ""
-          },
-          {
-            "question": "Which influencer has the best merch?",
-            "snippet": ""
-          },
-          {
-            "question": "What merch store do YouTubers use?",
-            "snippet": ""
-          },
-          {
-            "question": "Where do YouTubers get their merch from?",
-            "snippet": ""
-          },
-          {
-            "question": "Does anyone actually buy YouTuber merch?",
-            "snippet": ""
-          },
-          {
-            "question": "What is the most popular YouTuber merch?",
-            "snippet": ""
-          },
-          {
-            "question": "How much does it cost to start a print-on-demand store?",
-            "snippet": ""
-          },
-          {
-            "question": "What are the best online stores for print-on-demand?",
-            "snippet": ""
-          },
-          {
-            "question": "Is print-on-demand still profitable in 2026?",
-            "snippet": ""
-          },
-          {
-            "question": "What is the most profitable print-on-demand sites?",
-            "snippet": ""
-          },
-          {
-            "question": "What are some popular merch stores for content creators?",
-            "snippet": ""
-          },
-          {
-            "question": "What type of merch sells the most?",
-            "snippet": ""
-          },
-          {
-            "question": "What are some good merch ideas?",
-            "snippet": ""
-          },
-          {
-            "question": "How do YouTubers make their own merch?",
-            "snippet": ""
-          },
-          {
-            "question": "How do I get merch for my YouTube channel?",
-            "snippet": ""
-          }
-        ],
-        "related_searches": [
-          "Creator merch store canada",
-          "Creator merch store online",
-          "Create your own merch for free",
-          "Create your own merch store",
-          "Teespring",
-          "Creator merch store hoodies",
-          "Best merch making websites",
-          "Free merch store",
-          "Free content creator merchandise",
-          "Content creator merchandise online",
-          "Content creator merchandise amazon",
-          "Women content creator merchandise",
-          "Content creator merchandise for sale",
-          "Best content creator merchandise",
-          "Men content creator merchandise",
-          "Youtuber merch shop online",
-          "Top 10 YouTuber merch",
-          "Youtuber merch shop canada",
-          "Youtuber merch shop reddit",
-          "Youtuber merch Plush"
-        ],
-        "top_competitors": [
-          {
-            "source": "Creator Merch",
-            "count": 3,
-            "best_position": 1
-          },
-          {
-            "source": "Bonfire",
-            "count": 6,
-            "best_position": 1
-          },
-          {
-            "source": "Reddit · r/PartneredYoutube",
-            "count": 2,
-            "best_position": 1
-          },
-          {
-            "source": "Google Merch Shop",
-            "count": 1,
-            "best_position": 1
-          },
-          {
-            "source": "Printful",
-            "count": 4,
-            "best_position": 1
-          },
-          {
-            "source": "Reddit · r/printondemand",
-            "count": 1,
-            "best_position": 1
-          },
-          {
-            "source": "Kittl",
-            "count": 1,
-            "best_position": 1
-          },
-          {
-            "source": "Streamlabs",
-            "count": 1,
-            "best_position": 1
-          },
-          {
-            "source": "PodSwag",
-            "count": 1,
-            "best_position": 1
-          },
-          {
-            "source": "Vibeit",
-            "count": 1,
-            "best_position": 1
-          }
-        ]
+        "people_also_ask": [],
+        "related_searches": [],
+        "top_competitors": []
       }
     },
     "aivoxio": {
       "domain": "aivoxio.com",
-      "collection_date": "2026-08-27T05:27:10+00:00",
+      "collection_date": "2026-09-01T14:36:51+00:00",
       "keywords_tracked": 12,
-      "keywords_found": 1,
-      "avg_rank": 8.0,
+      "keywords_found": 0,
+      "avg_rank": null,
       "top3_count": 0,
-      "top10_count": 1,
-      "top20_count": 1,
+      "top10_count": 0,
+      "top20_count": 0,
       "ai_overview_citations": 0,
       "ai_mode_citations": 0,
       "featured_snippet_count": 0,
       "chatgpt_citations": 0,
       "gemini_citations": 0,
       "total_serpapi_searches": 24,
-      "total_llm_calls": 24,
+      "total_llm_calls": 0,
       "keyword_details": [
         {
           "keyword": "aivoxio",
-          "rank": 8,
-          "title": "Untitled",
-          "snippet": "title: \"Why Every Business Needs a 24/7 Voice Agent\" description: \"How AI voice agents are transforming customer service for businesses of all sizes —",
+          "rank": null,
+          "title": null,
+          "snippet": null,
           "sitelinks": false,
           "ai_overview_cited": false,
           "ai_overview_snippet": "",
           "ai_mode_cited": false,
-          "ai_mode_answer": "\"Aivoxio\" typically refers to [AIVOX](https://aivox.com/en/), an advanced industrial automation and computational design platform, or closely related products under the \"Aivox\" and \"Voxio\" umbrellas that handle conversational artificial intelligence and voice transcription. \\(https://www.logicweb.com/ai/voxio/\\)\n\nDepending on the context, you might be looking for one of these specific platforms:\n\n### 1. Advanced Manufacturing & Automation\n\n- AIVOX \\(aivox.com\\): A specialized European platform d",
-          "ai_mode_references": [
-            {
-              "title": "Voxio - LogicWeb",
-              "link": "https://www.logicweb.com/ai/voxio/",
-              "source": "LogicWeb"
-            },
-            {
-              "title": "AIVOX | Tailor-made development for different sectors",
-              "link": "https://aivox.com/en/",
-              "source": "AIVOX"
-            },
-            {
-              "title": "AIVOX (@aivoxai) · Sydney, NSW - Instagram",
-              "link": "https://www.instagram.com/aivoxai/",
-              "source": "Instagram"
-            },
-            {
-              "title": "Aivox - LITIX",
-              "link": "https://litix.com",
-              "source": "litix.com"
-            },
-            {
-              "title": "Aivox: AI Call Recorder Auto - Apps on Google Play",
-              "link": "https://play.google.com/store/apps/details?id=com.monkeycoding.aivox.ai.auto.callrecorder",
-              "source": "Google Play"
-            }
-          ],
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
           "featured_snippet_text": "",
           "people_also_ask": [],
           "related_searches": [],
-          "competitors": [
-            {
-              "position": 2,
-              "title": "International Opportunities Fund - AIVOX",
-              "source": "American Century Investments",
-              "link": "https://www.americancentury.com/invest/funds/international-opportunities/aivox/"
-            },
-            {
-              "position": 3,
-              "title": "American Century International Opps A (AIVOX)",
-              "source": "Yahoo Finance",
-              "link": "https://finance.yahoo.com/quote/aivox/"
-            },
-            {
-              "position": 4,
-              "title": "AIVOX",
-              "source": "LinkedIn · AIVOX",
-              "link": "https://www.linkedin.com/company/aivoxtech/"
-            },
-            {
-              "position": 5,
-              "title": "AIVOX – American Century International Opps A Fund ...",
-              "source": "Morningstar",
-              "link": "https://www.morningstar.com/funds/xnas/aivox/quote"
-            },
-            {
-              "position": 6,
-              "title": "Avivo: Changing blood types and minds",
-              "source": "avivobio.com",
-              "link": "https://avivobio.com/"
-            }
-          ],
-          "total_results": 369,
+          "competitors": [],
+          "total_results": null,
           "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
@@ -1942,38 +599,12 @@
       "discovery": {
         "people_also_ask": [],
         "related_searches": [],
-        "top_competitors": [
-          {
-            "source": "American Century Investments",
-            "count": 1,
-            "best_position": 2
-          },
-          {
-            "source": "Yahoo Finance",
-            "count": 1,
-            "best_position": 3
-          },
-          {
-            "source": "LinkedIn · AIVOX",
-            "count": 1,
-            "best_position": 4
-          },
-          {
-            "source": "Morningstar",
-            "count": 1,
-            "best_position": 5
-          },
-          {
-            "source": "avivobio.com",
-            "count": 1,
-            "best_position": 6
-          }
-        ]
+        "top_competitors": []
       }
     },
     "cloutclock": {
       "domain": "cloutclock.com",
-      "collection_date": "2026-08-27T05:23:38+00:00",
+      "collection_date": "2026-09-01T14:36:53+00:00",
       "keywords_tracked": 12,
       "keywords_found": 0,
       "avg_rank": null,
@@ -1985,152 +616,284 @@
       "featured_snippet_count": 0,
       "chatgpt_citations": 0,
       "gemini_citations": 0,
-      "total_serpapi_searches": 0,
+      "total_serpapi_searches": 24,
       "total_llm_calls": 0,
       "keyword_details": [
         {
           "keyword": "clout clock",
           "rank": null,
-          "title": "",
-          "snippet": "",
+          "title": null,
+          "snippet": null,
           "sitelinks": false,
           "ai_overview_cited": false,
+          "ai_overview_snippet": "",
           "ai_mode_cited": false,
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
+          "featured_snippet_text": "",
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
+          "discussions_forums": [],
           "chatgpt_cited": false,
-          "gemini_cited": false
+          "chatgpt_response": "",
+          "gemini_cited": false,
+          "gemini_response": ""
         },
         {
           "keyword": "attention leaderboard",
           "rank": null,
-          "title": "",
-          "snippet": "",
+          "title": null,
+          "snippet": null,
           "sitelinks": false,
           "ai_overview_cited": false,
+          "ai_overview_snippet": "",
           "ai_mode_cited": false,
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
+          "featured_snippet_text": "",
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
+          "discussions_forums": [],
           "chatgpt_cited": false,
-          "gemini_cited": false
+          "chatgpt_response": "",
+          "gemini_cited": false,
+          "gemini_response": ""
         },
         {
           "keyword": "website popularity contest",
           "rank": null,
-          "title": "",
-          "snippet": "",
+          "title": null,
+          "snippet": null,
           "sitelinks": false,
           "ai_overview_cited": false,
+          "ai_overview_snippet": "",
           "ai_mode_cited": false,
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
+          "featured_snippet_text": "",
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
+          "discussions_forums": [],
           "chatgpt_cited": false,
-          "gemini_cited": false
+          "chatgpt_response": "",
+          "gemini_cited": false,
+          "gemini_response": ""
         },
         {
           "keyword": "clout competition",
           "rank": null,
-          "title": "",
-          "snippet": "",
+          "title": null,
+          "snippet": null,
           "sitelinks": false,
           "ai_overview_cited": false,
+          "ai_overview_snippet": "",
           "ai_mode_cited": false,
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
+          "featured_snippet_text": "",
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
+          "discussions_forums": [],
           "chatgpt_cited": false,
-          "gemini_cited": false
+          "chatgpt_response": "",
+          "gemini_cited": false,
+          "gemini_response": ""
         },
         {
           "keyword": "site visibility ranking",
           "rank": null,
-          "title": "",
-          "snippet": "",
+          "title": null,
+          "snippet": null,
           "sitelinks": false,
           "ai_overview_cited": false,
+          "ai_overview_snippet": "",
           "ai_mode_cited": false,
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
+          "featured_snippet_text": "",
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
+          "discussions_forums": [],
           "chatgpt_cited": false,
-          "gemini_cited": false
+          "chatgpt_response": "",
+          "gemini_cited": false,
+          "gemini_response": ""
         },
         {
           "keyword": "content ranking tool",
           "rank": null,
-          "title": "",
-          "snippet": "",
+          "title": null,
+          "snippet": null,
           "sitelinks": false,
           "ai_overview_cited": false,
+          "ai_overview_snippet": "",
           "ai_mode_cited": false,
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
+          "featured_snippet_text": "",
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
+          "discussions_forums": [],
           "chatgpt_cited": false,
-          "gemini_cited": false
+          "chatgpt_response": "",
+          "gemini_cited": false,
+          "gemini_response": ""
         },
         {
           "keyword": "web leaderboard",
           "rank": null,
-          "title": "",
-          "snippet": "",
+          "title": null,
+          "snippet": null,
           "sitelinks": false,
           "ai_overview_cited": false,
+          "ai_overview_snippet": "",
           "ai_mode_cited": false,
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
+          "featured_snippet_text": "",
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
+          "discussions_forums": [],
           "chatgpt_cited": false,
-          "gemini_cited": false
+          "chatgpt_response": "",
+          "gemini_cited": false,
+          "gemini_response": ""
         },
         {
           "keyword": "backlink game",
           "rank": null,
-          "title": "",
-          "snippet": "",
+          "title": null,
+          "snippet": null,
           "sitelinks": false,
           "ai_overview_cited": false,
+          "ai_overview_snippet": "",
           "ai_mode_cited": false,
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
+          "featured_snippet_text": "",
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
+          "discussions_forums": [],
           "chatgpt_cited": false,
-          "gemini_cited": false
+          "chatgpt_response": "",
+          "gemini_cited": false,
+          "gemini_response": ""
         },
         {
           "keyword": "marketing leaderboard",
           "rank": null,
-          "title": "",
-          "snippet": "",
+          "title": null,
+          "snippet": null,
           "sitelinks": false,
           "ai_overview_cited": false,
+          "ai_overview_snippet": "",
           "ai_mode_cited": false,
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
+          "featured_snippet_text": "",
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
+          "discussions_forums": [],
           "chatgpt_cited": false,
-          "gemini_cited": false
+          "chatgpt_response": "",
+          "gemini_cited": false,
+          "gemini_response": ""
         },
         {
           "keyword": "website ranking game",
           "rank": null,
-          "title": "",
-          "snippet": "",
+          "title": null,
+          "snippet": null,
           "sitelinks": false,
           "ai_overview_cited": false,
+          "ai_overview_snippet": "",
           "ai_mode_cited": false,
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
+          "featured_snippet_text": "",
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
+          "discussions_forums": [],
           "chatgpt_cited": false,
-          "gemini_cited": false
+          "chatgpt_response": "",
+          "gemini_cited": false,
+          "gemini_response": ""
         },
         {
           "keyword": "attention economy ranking",
           "rank": null,
-          "title": "",
-          "snippet": "",
+          "title": null,
+          "snippet": null,
           "sitelinks": false,
           "ai_overview_cited": false,
+          "ai_overview_snippet": "",
           "ai_mode_cited": false,
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
+          "featured_snippet_text": "",
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
+          "discussions_forums": [],
           "chatgpt_cited": false,
-          "gemini_cited": false
+          "chatgpt_response": "",
+          "gemini_cited": false,
+          "gemini_response": ""
         },
         {
           "keyword": "site popularity leaderboard",
           "rank": null,
-          "title": "",
-          "snippet": "",
+          "title": null,
+          "snippet": null,
           "sitelinks": false,
           "ai_overview_cited": false,
+          "ai_overview_snippet": "",
           "ai_mode_cited": false,
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
+          "featured_snippet_text": "",
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
+          "discussions_forums": [],
           "chatgpt_cited": false,
-          "gemini_cited": false
+          "chatgpt_response": "",
+          "gemini_cited": false,
+          "gemini_response": ""
         }
       ],
       "discovery": {
@@ -2140,6 +903,6 @@
       }
     }
   },
-  "serpapi_searches_used": 48,
-  "llm_calls_used": 48
+  "serpapi_searches_used": 72,
+  "llm_calls_used": 0
 }
