@@ -1,0 +1,63 @@
+{
+  "version": "1.0",
+  "updated": "2026-09-13T11:07:30.155707+00:00",
+  "sites": {
+    "aivoxio": {
+      "domain": "aivoxio.com",
+      "business": "Voice AI Agency",
+      "counts": {
+        "new": 0,
+        "scanned": 0,
+        "matched": 0,
+        "contact_found": 0,
+        "no_contact": 0,
+        "scored": 0,
+        "qualified": 0,
+        "drafts_pending_approval": 0,
+        "approved": 0,
+        "sent": 0,
+        "live": 0
+      },
+      "drafts": [],
+      "live_wins": []
+    },
+    "hoojump": {
+      "domain": "hoojump.com",
+      "business": "Creator Merch Store",
+      "counts": {
+        "new": 0,
+        "scanned": 0,
+        "matched": 0,
+        "contact_found": 0,
+        "no_contact": 0,
+        "scored": 0,
+        "qualified": 0,
+        "drafts_pending_approval": 0,
+        "approved": 0,
+        "sent": 0,
+        "live": 0
+      },
+      "drafts": [],
+      "live_wins": []
+    },
+    "cloutclock": {
+      "domain": "cloutclock.com",
+      "business": "Clout Clock - attention leaderboard",
+      "counts": {
+        "new": 0,
+        "scanned": 0,
+        "matched": 0,
+        "contact_found": 0,
+        "no_contact": 0,
+        "scored": 0,
+        "qualified": 0,
+        "drafts_pending_approval": 0,
+        "approved": 0,
+        "sent": 0,
+        "live": 0
+      },
+      "drafts": [],
+      "live_wins": []
+    }
+  }
+}
