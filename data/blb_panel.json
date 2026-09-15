@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-09-14T10:54:13.611733+00:00",
+  "updated": "2026-09-15T11:42:06.611004+00:00",
   "sites": {
     "aivoxio": {
       "domain": "aivoxio.com",
@@ -13,7 +13,7 @@
         "no_contact": 0,
         "scored": 0,
         "qualified": 0,
-        "drafts_pending_approval": 7,
+        "drafts_pending_approval": 8,
         "approved": 0,
         "sent": 0,
         "live": 0
@@ -116,6 +116,20 @@
           "status": "draft_pending_approval",
           "subject": "Quick fix: dead link on devexhub.com",
           "body_preview": "Hi there,\n\nI came across your post 'Launch Call Demo' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://linkedin.com/company/devex-hub\n\nI run Voice AI Ag..."
+        },
+        {
+          "id": "aivoxio_08d6f9b06c88",
+          "source_page": "https://aitools.inc/tools/bland-ai/go/website",
+          "source_domain": "aitools.inc",
+          "broken_url": "https://linkedin.com/company/bland-ai",
+          "replacement_url": "https://aivoxio.com/ai-receptionist",
+          "replacement_label": "AI receptionist alternatives",
+          "contact_name": "",
+          "contact_email": "hello@aitools.inc",
+          "score": 2.13,
+          "status": "draft_pending_approval",
+          "subject": "Broken link on your page: —",
+          "body_preview": "Hi there,\n\nI came across your post '—' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://linkedin.com/company/bland-ai\n\nI run Voice AI Agency (https://ai..."
         }
       ],
       "live_wins": []
@@ -158,12 +172,12 @@
       "domain": "cloutclock.com",
       "business": "Clout Clock - attention leaderboard",
       "counts": {
-        "new": 18,
+        "new": 6,
         "scanned": 0,
         "matched": 0,
         "contact_found": 0,
-        "no_contact": 1,
-        "scored": 0,
+        "no_contact": 6,
+        "scored": 2,
         "qualified": 0,
         "drafts_pending_approval": 0,
         "approved": 0,
