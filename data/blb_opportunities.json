@@ -4,21 +4,20 @@
       "id": "cloutclock_886280052116",
       "site": "cloutclock",
       "source_page": "https://www.coingecko.com/learn/q2-2020-quarterly-cryptocurrency-report-part-2",
-      "source_title": "top 2 referrers being crypto ad / faucet sites",
+      "source_title": "top 5 referring sites were crypto ad / faucet sites",
       "source_domain": "coingecko.com",
       "source_dr": 88,
       "source_traffic_score": 1,
       "competitor_mentioned": "coingecko.com",
       "niche_relevance": 2,
-      "status": "rejected",
+      "status": "scanned",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.784564+00:00",
-      "updated_at": "2026-09-15T11:17:15.784574+00:00",
+      "created_at": "2026-10-01T11:16:29.275590+00:00",
+      "updated_at": "2026-10-01T11:16:29.275600+00:00",
       "broken_links": [],
       "external_links_count": 36,
       "broken_links_count": 0,
-      "no_broken_links": true,
-      "reject_reason": "No broken links"
+      "no_broken_links": true
     },
     {
       "id": "cloutclock_916530aad02f",
@@ -27,13 +26,13 @@
       "source_title": "evidências",
       "source_domain": "appsflyer.com",
       "source_dr": 87,
-      "source_traffic_score": 2,
+      "source_traffic_score": 1,
       "competitor_mentioned": "appsflyer.com",
-      "niche_relevance": 1,
-      "status": "no_contact",
+      "niche_relevance": 2,
+      "status": "scanned",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.784709+00:00",
-      "updated_at": "2026-09-15T11:17:15.784715+00:00",
+      "created_at": "2026-10-01T11:16:29.275744+00:00",
+      "updated_at": "2026-10-01T11:16:29.275747+00:00",
       "broken_links": [
         {
           "broken_url": "https://support.google.com/googleplay/android-developer/answer/9898842#zippy=",
@@ -41,35 +40,36 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "essa lista do Google",
-          "surrounding_text": "Descrição longa:utilize até 4.000 caracteres para descrever os melhores recursos do seu aplicativo. Aqui, você pode utilizar a sua principal palavra-chave por até 3 a 5 vezes. Certifique-se de fazer a localização da descrição para o máximo de idiomas possível, e utilize marcadores de tópicos para to",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": "Descrição longa:utilize até 4.000 caracteres para descrever os melhores recursos do seu aplicativo. Aqui, você pode utilizar a sua principal palavra-chave por até 3 a 5 vezes. Certifique-se de fazer a localização da descrição para o máximo de idiomas possível, e utilize marcadores de tópicos para to"
+        },
+        {
+          "broken_url": "https://www.linkedin.com/company/appsflyer/",
+          "status": 999,
+          "error": null,
+          "soft_404": false,
+          "anchor_text": "",
+          "surrounding_text": ""
         }
       ],
-      "external_links_count": 27,
-      "broken_links_count": 1,
-      "selected_broken_url": "https://support.google.com/googleplay/android-developer/answer/9898842#zippy=",
-      "replacement_url": "https://cloutclock.com/leaderboard",
-      "replacement_label": "web traffic leaderboard",
-      "replacement_fit": 3,
-      "replacement_anchor": "essa lista do Google",
-      "replacement_context": "Descrição longa:utilize até 4.000 caracteres para descrever os melhores recursos do seu aplicativo. Aqui, você pode utilizar a sua principal palavra-chave por até 3 a 5 vezes. Certifique-se de fazer a localização da descrição para o máximo de idiomas possível, e utilize marcadores de tópicos para to",
-      "context_quality": 2,
-      "language_match": 2,
-      "score": 1.87,
-      "score_dimensions": {
-        "source_dr": 2.61,
-        "source_traffic": 2.0,
-        "niche_relevance": 1,
-        "context_quality": 2,
-        "replacement_fit": 3,
-        "contact_found": 0.0,
-        "language_match": 2
-      },
-      "score_threshold": 1.8,
-      "qualifies": true,
-      "contact_reject_reason": "no_email"
+      "external_links_count": 30,
+      "broken_links_count": 2
+    },
+    {
+      "id": "cloutclock_7930dabaa076",
+      "site": "cloutclock",
+      "source_page": "https://meta.trac.wordpress.org/ticket/3933",
+      "source_title": "​https://www.alexa.com/topsites/countries/IR",
+      "source_domain": "meta.trac.wordpress.org",
+      "source_dr": 97,
+      "source_traffic_score": 1,
+      "competitor_mentioned": "meta.trac.wordpress.org",
+      "niche_relevance": 2,
+      "status": "rejected",
+      "provenance": "openseo",
+      "created_at": "2026-10-01T11:16:29.275907+00:00",
+      "updated_at": "2026-10-01T11:16:29.275910+00:00",
+      "crawl_error": "Client error '403 Forbidden' for url 'https://meta.trac.wordpress.org/ticket/3933'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "reject_reason": "Could not fetch source page: Client error '403 Forbidden' for url 'https://meta.trac.wordpress.org/ticket/3933'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
     },
     {
       "id": "cloutclock_9eb2efe55527",
@@ -81,15 +81,22 @@
       "source_traffic_score": 1,
       "competitor_mentioned": "elegantthemes.com",
       "niche_relevance": 2,
-      "status": "rejected",
+      "status": "scanned",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.785885+00:00",
-      "updated_at": "2026-09-15T11:17:15.785891+00:00",
-      "broken_links": [],
+      "created_at": "2026-10-01T11:16:29.276666+00:00",
+      "updated_at": "2026-10-01T11:16:29.276678+00:00",
+      "broken_links": [
+        {
+          "broken_url": "https://www.linkedin.com/company/elegantthemes",
+          "status": 999,
+          "error": null,
+          "soft_404": false,
+          "anchor_text": "LinkedIn",
+          "surrounding_text": "LinkedIn"
+        }
+      ],
       "external_links_count": 32,
-      "broken_links_count": 0,
-      "no_broken_links": true,
-      "reject_reason": "No broken links"
+      "broken_links_count": 1
     },
     {
       "id": "cloutclock_285c0ad9922f",
@@ -103,8 +110,8 @@
       "niche_relevance": 2,
       "status": "rejected",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.786034+00:00",
-      "updated_at": "2026-09-15T11:17:15.786039+00:00",
+      "created_at": "2026-10-01T11:16:29.276802+00:00",
+      "updated_at": "2026-10-01T11:16:29.276805+00:00",
       "crawl_error": "Client error '403 Forbidden' for url 'https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.13702'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "reject_reason": "Could not fetch source page: Client error '403 Forbidden' for url 'https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.13702'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
     },
@@ -115,24 +122,21 @@
       "source_title": "one of the top Websites",
       "source_domain": "solve.mit.edu",
       "source_dr": 88,
-      "source_traffic_score": 2,
+      "source_traffic_score": 1,
       "competitor_mentioned": "solve.mit.edu",
-      "niche_relevance": 1,
-      "status": "no_contact",
+      "niche_relevance": 2,
+      "status": "scanned",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.786201+00:00",
-      "updated_at": "2026-09-15T11:17:15.786204+00:00",
+      "created_at": "2026-10-01T11:16:29.277006+00:00",
+      "updated_at": "2026-10-01T11:16:29.277009+00:00",
       "broken_links": [
         {
-          "broken_url": "https://lesan.ai/",
-          "status": 502,
-          "error": null,
+          "broken_url": "https://webfoundation.org/about/vision/why-the-web/",
+          "status": null,
+          "error": "",
           "soft_404": false,
-          "anchor_text": "Lesan",
-          "surrounding_text": "Lesanhas served over 90,000 users with more than 12 million translations so far. Many people use Lesan to translate news, health related information and educational materials form English into Amharic and Tigrinay. There are users who translate content from Amharic and Tigrinya into English to post ",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "anchor_text": "The Web",
+          "surrounding_text": "The Webis one of the most important inventions that gives billions of people the ability as users and contributors, to connect with other people, access information and improve their lives and communities. For millions of people in Africa, thelack of relevant content in their language is a major cha"
         },
         {
           "broken_url": "https://www.linkedin.com/in/asmelashteka/",
@@ -140,10 +144,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "Asmelash Teka Hadgu",
-          "surrounding_text": "Asmelash Teka Hadguthe founder and CTO comes from Tigray. His PhD research is in the area of machine learning where he designed algorithms that leverage the social web for applications in scholarly communication, crisis communication, and natural language processing for low resource languages.",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": "Asmelash Teka Hadguthe founder and CTO comes from Tigray. His PhD research is in the area of machine learning where he designed algorithms that leverage the social web for applications in scholarly communication, crisis communication, and natural language processing for low resource languages."
         },
         {
           "broken_url": "https://www.linkedin.com/in/abel-aregawi-238106175/",
@@ -151,167 +152,26 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "Abel Aregawi",
-          "surrounding_text": "Abel Aregawiour project manager is from Addis. He holds BA in Computer Engineering and is an MBA graduate with 4.0 CGPA. Prior to Lesan, he managed several projects in the tech industry.",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": "Abel Aregawiour project manager is from Addis. He holds BA in Computer Engineering and is an MBA graduate with 4.0 CGPA. Prior to Lesan, he managed several projects in the tech industry."
         }
       ],
       "external_links_count": 15,
-      "broken_links_count": 3,
-      "selected_broken_url": "https://lesan.ai/",
-      "replacement_url": "https://cloutclock.com/leaderboard",
-      "replacement_label": "web traffic leaderboard",
-      "replacement_fit": 3,
-      "replacement_anchor": "Lesan",
-      "replacement_context": "Lesanhas served over 90,000 users with more than 12 million translations so far. Many people use Lesan to translate news, health related information and educational materials form English into Amharic and Tigrinay. There are users who translate content from Amharic and Tigrinya into English to post ",
-      "context_quality": 2,
-      "language_match": 2,
-      "score": 1.88,
-      "score_dimensions": {
-        "source_dr": 2.64,
-        "source_traffic": 2.0,
-        "niche_relevance": 1,
-        "context_quality": 2,
-        "replacement_fit": 3,
-        "contact_found": 0.0,
-        "language_match": 2
-      },
-      "score_threshold": 1.8,
-      "qualifies": true,
-      "contact_reject_reason": "no_email"
+      "broken_links_count": 3
     },
     {
-      "id": "cloutclock_20db9e039b79",
+      "id": "cloutclock_1a42c71f1005",
       "site": "cloutclock",
-      "source_page": "https://www.bdgest.com/forum/la-baie-et-ses-folies-parlons-en-t16261-3440.html",
-      "source_title": "http://www.alexa.com/topsites/countries/FR",
-      "source_domain": "bdgest.com",
-      "source_dr": 87,
-      "source_traffic_score": 2,
-      "competitor_mentioned": "bdgest.com",
-      "niche_relevance": 1,
-      "status": "no_contact",
-      "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.786470+00:00",
-      "updated_at": "2026-09-15T11:17:15.786473+00:00",
-      "broken_links": [
-        {
-          "broken_url": "https://bsky.app/profile/bdgest.bsky.social",
-          "status": 404,
-          "error": null,
-          "soft_404": false,
-          "anchor_text": "",
-          "surrounding_text": "",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
-        },
-        {
-          "broken_url": "http://www.paperblog.fr/2147029/les-100-sites-internet-les-plus-visites-en-france/",
-          "status": 404,
-          "error": null,
-          "soft_404": false,
-          "anchor_text": "http://www.paperblog.fr/2147029/les-100 ... en-france/",
-          "surrounding_text": "Manu85 a écrit:Le bon coin, plus visité que ebay.frhttp://www.paperblog.fr/2147029/les-100 ... en-france/",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
-        },
-        {
-          "broken_url": "http://en.2dgalleries.com/browse/profile?id=172",
-          "status": null,
-          "error": "[Errno 11001] getaddrinfo failed",
-          "soft_404": false,
-          "anchor_text": "Mes Originaux sur 2DG",
-          "surrounding_text": "FB/Mes Originaux sur 2DG/FB again/MiKeSi",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
-        },
-        {
-          "broken_url": "http://en.2dgalleries.com/browse/profile?id=172",
-          "status": null,
-          "error": "[Errno 11001] getaddrinfo failed",
-          "soft_404": false,
-          "anchor_text": "Mes Originaux sur 2DG",
-          "surrounding_text": "FB/Mes Originaux sur 2DG/FB again/MiKeSi",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
-        },
-        {
-          "broken_url": "http://www.wix.com/pinsonfred/dedicacebd#",
-          "status": 404,
-          "error": null,
-          "soft_404": false,
-          "anchor_text": "http://www.wix.com/pinsonfred/dedicacebd#",
-          "surrounding_text": "http://www.wix.com/pinsonfred/dedicacebd#!",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
-        },
-        {
-          "broken_url": "http://guideoriginauxbd.simplesite.com/",
-          "status": null,
-          "error": "[Errno 11001] getaddrinfo failed",
-          "soft_404": false,
-          "anchor_text": "http://guideoriginauxbd.simplesite.com/",
-          "surrounding_text": "Le but de la discussion ne doit pas être la victoire, mais l'amélioration.J. Jouberthttp://www.comicartfans.com/GalleryDeta ... GCat=24909http://www.2dgalleries.com/browse/profile?id=146http://guideoriginauxbd.simplesite.com/",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
-        },
-        {
-          "broken_url": "https://bsky.app/profile/bdgest.bsky.social",
-          "status": 404,
-          "error": null,
-          "soft_404": false,
-          "anchor_text": "",
-          "surrounding_text": "",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
-        }
-      ],
-      "external_links_count": 83,
-      "broken_links_count": 7,
-      "selected_broken_url": "http://www.paperblog.fr/2147029/les-100-sites-internet-les-plus-visites-en-france/",
-      "replacement_url": "https://cloutclock.com/leaderboard",
-      "replacement_label": "web traffic leaderboard",
-      "replacement_fit": 3,
-      "replacement_anchor": "http://www.paperblog.fr/2147029/les-100 ... en-france/",
-      "replacement_context": "Manu85 a écrit:Le bon coin, plus visité que ebay.frhttp://www.paperblog.fr/2147029/les-100 ... en-france/",
-      "context_quality": 2,
-      "language_match": 2,
-      "score": 1.87,
-      "score_dimensions": {
-        "source_dr": 2.61,
-        "source_traffic": 2.0,
-        "niche_relevance": 1,
-        "context_quality": 2,
-        "replacement_fit": 3,
-        "contact_found": 0.0,
-        "language_match": 2
-      },
-      "score_threshold": 1.8,
-      "qualifies": true,
-      "contact_reject_reason": "no_email"
-    },
-    {
-      "id": "cloutclock_b9bd38f43e5a",
-      "site": "cloutclock",
-      "source_page": "https://slack.com/intl/fr-cg/blog/productivity/14-outils-de-communication-simples-qui-vous-aideront-au-quotidien",
+      "source_page": "https://slack.com/intl/fr-be/blog/productivity/14-outils-de-communication-simples-qui-vous-aideront-au-quotidien",
       "source_title": "Keyword Magic Tool",
       "source_domain": "slack.com",
       "source_dr": 88,
-      "source_traffic_score": 2,
+      "source_traffic_score": 1,
       "competitor_mentioned": "slack.com",
-      "niche_relevance": 1,
-      "status": "no_contact",
+      "niche_relevance": 2,
+      "status": "scanned",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.787747+00:00",
-      "updated_at": "2026-09-15T11:17:15.787752+00:00",
+      "created_at": "2026-10-01T11:16:29.278399+00:00",
+      "updated_at": "2026-10-01T11:16:29.278402+00:00",
       "broken_links": [
         {
           "broken_url": "https://support.google.com/websearch/answer/9351707?hl=fr",
@@ -319,10 +179,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "extrait optimisé",
-          "surrounding_text": "Nous vous proposons ici deux outils complémentaires que vous pouvez utiliser gratuitement. Le serviceAnswerThePublic, qui prend en charge les recherches en français, vous indiquera les questions fréquemment posées par les internautes autour d’un thème ou un mot-clé donné. Cela est très utile pour cr",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": "Nous vous proposons ici deux outils complémentaires que vous pouvez utiliser gratuitement. Le serviceAnswerThePublic, qui prend en charge les recherches en français, vous indiquera les questions fréquemment posées par les internautes autour d’un thème ou un mot-clé donné. Cela est très utile pour cr"
         },
         {
           "broken_url": "https://www.linkedin.com/company/tiny-spec-inc/",
@@ -330,10 +187,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "",
-          "surrounding_text": "",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": ""
         },
         {
           "broken_url": "https://www.salesforcestore.com/Slack-C124.aspx",
@@ -341,129 +195,11 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "Boutique Slack",
-          "surrounding_text": "Boutique Slack",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": "Boutique Slack"
         }
       ],
       "external_links_count": 43,
-      "broken_links_count": 3,
-      "selected_broken_url": "https://support.google.com/websearch/answer/9351707?hl=fr",
-      "replacement_url": "https://cloutclock.com/leaderboard",
-      "replacement_label": "web traffic leaderboard",
-      "replacement_fit": 3,
-      "replacement_anchor": "extrait optimisé",
-      "replacement_context": "Nous vous proposons ici deux outils complémentaires que vous pouvez utiliser gratuitement. Le serviceAnswerThePublic, qui prend en charge les recherches en français, vous indiquera les questions fréquemment posées par les internautes autour d’un thème ou un mot-clé donné. Cela est très utile pour cr",
-      "context_quality": 3,
-      "language_match": 2,
-      "score": 2.03,
-      "score_dimensions": {
-        "source_dr": 2.64,
-        "source_traffic": 2.0,
-        "niche_relevance": 1,
-        "context_quality": 3,
-        "replacement_fit": 3,
-        "contact_found": 0.0,
-        "language_match": 2
-      },
-      "score_threshold": 1.8,
-      "qualifies": true,
-      "contact_reject_reason": "no_email"
-    },
-    {
-      "id": "cloutclock_fd1a17ff630e",
-      "site": "cloutclock",
-      "source_page": "https://misinforeview.hks.harvard.edu/article/google-allows-advertisers-to-target-the-sensitive-informational-queries-of-cancer-patients/",
-      "source_title": "https://www.semrush.com/lp/sem-aeoy/en/",
-      "source_domain": "misinforeview.hks.harvard.edu",
-      "source_dr": 88,
-      "source_traffic_score": 2,
-      "competitor_mentioned": "misinforeview.hks.harvard.edu",
-      "niche_relevance": 1,
-      "status": "scored",
-      "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.787842+00:00",
-      "updated_at": "2026-09-15T11:17:15.787844+00:00",
-      "broken_links": [
-        {
-          "broken_url": "https://bsky.app/profile/misinforeview.bsky.social",
-          "status": 404,
-          "error": null,
-          "soft_404": false,
-          "anchor_text": "",
-          "surrounding_text": "",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
-        },
-        {
-          "broken_url": "https://bsky.app/intent/compose/?text=Google+allows+advertisers+to+target+the+sensitive+informational+queries+of+cancer+patients:%20https%3A%2F%2Fmisinforeview.hks.harvard.edu%2Farticle%2Fgoogle-allows-advertisers-to-target-the-sensitive-informational-queries-of-cancer-patients%2F",
-          "status": 404,
-          "error": null,
-          "soft_404": false,
-          "anchor_text": "",
-          "surrounding_text": "",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
-        },
-        {
-          "broken_url": "https://counterhate.com/research%20/google-profiting-from-fake-abortion-clinics-ads/",
-          "status": 404,
-          "error": null,
-          "soft_404": false,
-          "anchor_text": "https://counterhate.com/research /google-profiting-from-fake-abortion-clinics-ads/",
-          "surrounding_text": "Center for Countering Digital Hate. (2023a).Profiting from deceit.How Google profits from anti-choice ads distorting searches for reproductive healthcare.https://counterhate.com/research /google-profiting-from-fake-abortion-clinics-ads/",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
-        },
-        {
-          "broken_url": "https://support.google.com/adspolicy/answer/6020955?sjid=4159065490503247421-NA",
-          "status": 404,
-          "error": null,
-          "soft_404": false,
-          "anchor_text": "https://support.google.com/adspolicy/answer/6020955?sjid=4159065490503247421-NA",
-          "surrounding_text": "Google. (2024a).Misrepresentation—Advertising policies help.https://support.google.com/adspolicy/answer/6020955?sjid=4159065490503247421-NA",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
-        },
-        {
-          "broken_url": "https://support.google.com/youtube/answer/13813322?hl=en",
-          "status": 404,
-          "error": null,
-          "soft_404": false,
-          "anchor_text": "https://support.google.com/youtube/answer/13813322?hl=en",
-          "surrounding_text": "YouTube. (2024).Medical misinformation policy.https://support.google.com/youtube/answer/13813322?hl=en",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
-        }
-      ],
-      "external_links_count": 59,
-      "broken_links_count": 5,
-      "selected_broken_url": "https://bsky.app/profile/misinforeview.bsky.social",
-      "replacement_url": "https://cloutclock.com/leaderboard",
-      "replacement_label": "web traffic leaderboard",
-      "replacement_fit": 3,
-      "replacement_anchor": "",
-      "replacement_context": "",
-      "context_quality": 1,
-      "language_match": 2,
-      "score": 1.73,
-      "score_dimensions": {
-        "source_dr": 2.64,
-        "source_traffic": 2.0,
-        "niche_relevance": 1,
-        "context_quality": 1,
-        "replacement_fit": 3,
-        "contact_found": 0.0,
-        "language_match": 2
-      },
-      "score_threshold": 1.8,
-      "qualifies": false
+      "broken_links_count": 3
     },
     {
       "id": "cloutclock_31413318a8e5",
@@ -475,30 +211,120 @@
       "source_traffic_score": 1,
       "competitor_mentioned": "statcounter.com",
       "niche_relevance": 2,
-      "status": "rejected",
+      "status": "scanned",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.787966+00:00",
-      "updated_at": "2026-09-15T11:17:15.787969+00:00",
+      "created_at": "2026-10-01T11:16:29.278622+00:00",
+      "updated_at": "2026-10-01T11:16:29.278625+00:00",
       "broken_links": [],
       "external_links_count": 11,
       "broken_links_count": 0,
-      "no_broken_links": true,
-      "reject_reason": "No broken links"
+      "no_broken_links": true
+    },
+    {
+      "id": "cloutclock_485dce7c9371",
+      "site": "cloutclock",
+      "source_page": "https://dzk-media.odoo.com/blog/pemasaran-1/seo-tools-ranking-website-37",
+      "source_title": "SEO Tools & Resources To Grow Your Search Traffic",
+      "source_domain": "dzk-media.odoo.com",
+      "source_dr": 91,
+      "source_traffic_score": 1,
+      "competitor_mentioned": "dzk-media.odoo.com",
+      "niche_relevance": 2,
+      "status": "scanned",
+      "provenance": "openseo",
+      "created_at": "2026-10-01T11:16:29.279076+00:00",
+      "updated_at": "2026-10-01T11:16:29.279079+00:00",
+      "broken_links": [
+        {
+          "broken_url": "https://wpmails.com/234.html",
+          "status": null,
+          "error": "[Errno 11002] getaddrinfo failed",
+          "soft_404": false,
+          "anchor_text": "Dapatkan Squirrly SEO untukwebsiteanda",
+          "surrounding_text": "Dapatkan Squirrly SEO untukwebsiteanda"
+        },
+        {
+          "broken_url": "https://wpmails.com/234.html",
+          "status": null,
+          "error": "[Errno 11002] getaddrinfo failed",
+          "soft_404": false,
+          "anchor_text": "Dapatkan Squirrly SEO untukwebsiteanda",
+          "surrounding_text": "Dapatkan Squirrly SEO untukwebsiteanda"
+        },
+        {
+          "broken_url": "https://wpmails.com/234.html",
+          "status": null,
+          "error": "[Errno 11002] getaddrinfo failed",
+          "soft_404": false,
+          "anchor_text": "Dapatkan Squirrly SEO untukwebsiteanda",
+          "surrounding_text": "Dapatkan Squirrly SEO untukwebsiteanda"
+        },
+        {
+          "broken_url": "https://wpmails.com/234.html",
+          "status": null,
+          "error": "[Errno 11002] getaddrinfo failed",
+          "soft_404": false,
+          "anchor_text": "Dapatkan Squirrly SEO untukwebsiteanda",
+          "surrounding_text": "Dapatkan Squirrly SEO untukwebsiteanda"
+        },
+        {
+          "broken_url": "https://wpmails.com/234.html",
+          "status": null,
+          "error": "[Errno 11002] getaddrinfo failed",
+          "soft_404": false,
+          "anchor_text": "Dapatkan Squirrly SEO untukwebsiteanda",
+          "surrounding_text": "Dapatkan Squirrly SEO untukwebsiteanda"
+        },
+        {
+          "broken_url": "https://wpmails.com/234.html",
+          "status": null,
+          "error": "[Errno 11002] getaddrinfo failed",
+          "soft_404": false,
+          "anchor_text": "Dapatkan Squirrly SEO untukwebsiteanda",
+          "surrounding_text": "Dapatkan Squirrly SEO untukwebsiteanda"
+        },
+        {
+          "broken_url": "https://wpmails.com/234.html",
+          "status": null,
+          "error": "[Errno 11002] getaddrinfo failed",
+          "soft_404": false,
+          "anchor_text": "Dapatkan Squirrly SEO untukwebsiteanda",
+          "surrounding_text": "Dapatkan Squirrly SEO untukwebsiteanda"
+        },
+        {
+          "broken_url": "https://wpmails.com/234.html",
+          "status": null,
+          "error": "[Errno 11002] getaddrinfo failed",
+          "soft_404": false,
+          "anchor_text": "Dapatkan Squirrly SEO untukwebsiteanda",
+          "surrounding_text": "Dapatkan Squirrly SEO untukwebsiteanda"
+        },
+        {
+          "broken_url": "https://expertos.fi/blog/diib-data-management-platform/",
+          "status": 404,
+          "error": null,
+          "soft_404": false,
+          "anchor_text": "Kredit",
+          "surrounding_text": "[Kredit]"
+        }
+      ],
+      "external_links_count": 40,
+      "broken_links_count": 9
     },
     {
       "id": "cloutclock_032952b05029",
       "site": "cloutclock",
       "source_page": "https://misinforeview.hks.harvard.edu/article/search-engine-manipulation-to-spread-pro-kremlin-propaganda/",
-      "source_title": "https://ahrefs.com/",
+      "source_title": "https://ahrefs.com/robot",
       "source_domain": "misinforeview.hks.harvard.edu",
       "source_dr": 88,
-      "source_traffic_score": 2,
+      "source_traffic_score": 1,
       "competitor_mentioned": "misinforeview.hks.harvard.edu",
-      "niche_relevance": 1,
-      "status": "no_contact",
+      "niche_relevance": 2,
+      "status": "scanned",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.789178+00:00",
-      "updated_at": "2026-09-15T11:17:15.789182+00:00",
+      "created_at": "2026-10-01T11:16:29.279780+00:00",
+      "updated_at": "2026-10-01T11:16:29.279783+00:00",
       "broken_links": [
         {
           "broken_url": "https://bsky.app/profile/misinforeview.bsky.social",
@@ -506,10 +332,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "",
-          "surrounding_text": "",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": ""
         },
         {
           "broken_url": "https://bsky.app/intent/compose/?text=Search+engine+manipulation+to+spread+pro-Kremlin+propaganda:%20https%3A%2F%2Fmisinforeview.hks.harvard.edu%2Farticle%2Fsearch-engine-manipulation-to-spread-pro-kremlin-propaganda%2F",
@@ -517,10 +340,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "",
-          "surrounding_text": "",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": ""
         },
         {
           "broken_url": "https://research.chitika.com/wp-content/uploads/2022/02/chitikainsights-valueofgoogleresultspositioning.pdf",
@@ -528,10 +348,7 @@
           "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)",
           "soft_404": false,
           "anchor_text": "https://research.chitika.com/wp-content/uploads/2022/02/chitikainsights-valueofgoogleresultspositioning.pdf",
-          "surrounding_text": "Chitika Insights (2013).The value of Google result positioning.https://research.chitika.com/wp-content/uploads/2022/02/chitikainsights-valueofgoogleresultspositioning.pdf",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": "Chitika Insights (2013).The value of Google result positioning.https://research.chitika.com/wp-content/uploads/2022/02/chitikainsights-valueofgoogleresultspositioning.pdf"
         },
         {
           "broken_url": "http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf",
@@ -539,10 +356,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf",
-          "surrounding_text": "Page, L., Brin, S., Motwani, R., & Winograd, T. (1999).The PageRank citation ranking: Bringing order to the web. Stanford InfoLab.http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "Page, L., Brin, S., Motwani, R., & Winograd, T. (1999).The PageRank citation ranking: Bringing order to the web. Stanford InfoLab.http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf"
         },
         {
           "broken_url": "https://www.justice.gov/file/1035477/download",
@@ -550,55 +364,11 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://www.justice.gov/file/1035477/download",
-          "surrounding_text": "United States of America v. Internet Research Agency LLC et al. (2018). Case 1:18-cr-00032-DLF. United States District Court for the District of Columbia.https://www.justice.gov/file/1035477/download",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": "United States of America v. Internet Research Agency LLC et al. (2018). Case 1:18-cr-00032-DLF. United States District Court for the District of Columbia.https://www.justice.gov/file/1035477/download"
         }
       ],
       "external_links_count": 43,
-      "broken_links_count": 5,
-      "selected_broken_url": "http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf",
-      "replacement_url": "https://cloutclock.com/leaderboard",
-      "replacement_label": "web traffic leaderboard",
-      "replacement_fit": 3,
-      "replacement_anchor": "http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf",
-      "replacement_context": "Page, L., Brin, S., Motwani, R., & Winograd, T. (1999).The PageRank citation ranking: Bringing order to the web. Stanford InfoLab.http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf",
-      "context_quality": 2,
-      "language_match": 2,
-      "score": 1.88,
-      "score_dimensions": {
-        "source_dr": 2.64,
-        "source_traffic": 2.0,
-        "niche_relevance": 1,
-        "context_quality": 2,
-        "replacement_fit": 3,
-        "contact_found": 0.0,
-        "language_match": 2
-      },
-      "score_threshold": 1.8,
-      "qualifies": true,
-      "contact_reject_reason": "no_email"
-    },
-    {
-      "id": "cloutclock_3434ebe19630",
-      "site": "cloutclock",
-      "source_page": "https://maily.so/newslettertodevops/posts/e9o0ek3lz8w",
-      "source_title": "https://ahrefs.com/free-seo-tools",
-      "source_domain": "maily.so",
-      "source_dr": 88,
-      "source_traffic_score": 1,
-      "competitor_mentioned": "maily.so",
-      "niche_relevance": 2,
-      "status": "rejected",
-      "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.789244+00:00",
-      "updated_at": "2026-09-15T11:17:15.789246+00:00",
-      "broken_links": [],
-      "external_links_count": 7,
-      "broken_links_count": 0,
-      "no_broken_links": true,
-      "reject_reason": "No broken links"
+      "broken_links_count": 5
     },
     {
       "id": "cloutclock_0be428f2a015",
@@ -607,13 +377,13 @@
       "source_title": "https://sitechecker.pro/app/main/website-safety-land?pageUrl=https:%2F%2Fwww.girlaerocity.in",
       "source_domain": "rentry.co",
       "source_dr": 84,
-      "source_traffic_score": 2,
+      "source_traffic_score": 1,
       "competitor_mentioned": "rentry.co",
-      "niche_relevance": 1,
-      "status": "no_contact",
+      "niche_relevance": 2,
+      "status": "scanned",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.789730+00:00",
-      "updated_at": "2026-09-15T11:17:15.789733+00:00",
+      "created_at": "2026-10-01T11:16:29.280268+00:00",
+      "updated_at": "2026-10-01T11:16:29.280271+00:00",
       "broken_links": [
         {
           "broken_url": "https://www.sbnation.com/users/topescortservice",
@@ -621,10 +391,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://www.sbnation.com/users/topescortservice",
-          "surrounding_text": "https://rentry.co/topescortservicehttps://hackmd.io/@topescortservice/call-girlshttps://topescortservice-18.webselfsite.net/https://topescortservice.mystrikingly.com/https://girls-number-list.blogspot.com/https://jaipur-girl-number.blogspot.com/https://ludhiana-russian-girls.blogspot.com/https://www",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://rentry.co/topescortservicehttps://hackmd.io/@topescortservice/call-girlshttps://topescortservice-18.webselfsite.net/https://topescortservice.mystrikingly.com/https://girls-number-list.blogspot.com/https://jaipur-girl-number.blogspot.com/https://ludhiana-russian-girls.blogspot.com/https://www"
         },
         {
           "broken_url": "https://en.gravatar.com/escortservicegirls",
@@ -632,10 +399,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://en.gravatar.com/escortservicegirls",
-          "surrounding_text": "https://rentry.co/topescortservicehttps://hackmd.io/@topescortservice/call-girlshttps://topescortservice-18.webselfsite.net/https://topescortservice.mystrikingly.com/https://girls-number-list.blogspot.com/https://jaipur-girl-number.blogspot.com/https://ludhiana-russian-girls.blogspot.com/https://www",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://rentry.co/topescortservicehttps://hackmd.io/@topescortservice/call-girlshttps://topescortservice-18.webselfsite.net/https://topescortservice.mystrikingly.com/https://girls-number-list.blogspot.com/https://jaipur-girl-number.blogspot.com/https://ludhiana-russian-girls.blogspot.com/https://www"
         },
         {
           "broken_url": "https://www.vingle.net/escortservicess",
@@ -643,10 +407,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://www.vingle.net/escortservicess",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://www.vingle.net/posts/6516847",
@@ -654,10 +415,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://www.vingle.net/posts/6516847",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://www.bloglovin.com/@topescortservices",
@@ -665,10 +423,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://www.bloglovin.com/@topescortservices",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://whatsappnumberlists.wordpress.com/",
@@ -676,10 +431,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://whatsappnumberlists.wordpress.com/",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "http://uid.me/topescortservice",
@@ -687,10 +439,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "http://uid.me/topescortservice",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "http://topescortservice.educatorpages.com/",
@@ -698,10 +447,7 @@
           "error": "",
           "soft_404": false,
           "anchor_text": "http://topescortservice.educatorpages.com/",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://topescortservice.educatorpages.com/pages/about-me",
@@ -709,10 +455,7 @@
           "error": "",
           "soft_404": false,
           "anchor_text": "https://topescortservice.educatorpages.com/pages/about-me",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://topescortservice.educatorpages.com/pages/contact-me",
@@ -720,10 +463,7 @@
           "error": "",
           "soft_404": false,
           "anchor_text": "https://topescortservice.educatorpages.com/pages/contact-me",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://sexy-pics-video-group.blogspot.com/",
@@ -731,10 +471,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://sexy-pics-video-group.blogspot.com/",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://about.me/escort-services",
@@ -742,10 +479,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://about.me/escort-services",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://participa.gencat.cat/profiles/topescortservice",
@@ -753,10 +487,7 @@
           "error": "",
           "soft_404": false,
           "anchor_text": "https://participa.gencat.cat/profiles/topescortservice",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://topescortservice.bigcartel.com/goa-escort-service-and-call-girls-in-goa-free-home-delivery",
@@ -764,10 +495,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://topescortservice.bigcartel.com/goa-escort-service-and-call-girls-in-goa-free-home-delivery",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://topescortservice.bigcartel.com/best-independent-escort-service-in-jaipur-russian-call-girl",
@@ -775,10 +503,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://topescortservice.bigcartel.com/best-independent-escort-service-in-jaipur-russian-call-girl",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://topescortservice.bigcartel.com/low-price-escorts-service-in-ludhiana-ludhiana-call-girls",
@@ -786,10 +511,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://topescortservice.bigcartel.com/low-price-escorts-service-in-ludhiana-ludhiana-call-girls",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://topescortservice.bigcartel.com/sexy-pics-whatsapp-group-link-invite-to-join-2023",
@@ -797,10 +519,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://topescortservice.bigcartel.com/sexy-pics-whatsapp-group-link-invite-to-join-2023",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://events.opensuse.org/users/423386",
@@ -808,10 +527,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://events.opensuse.org/users/423386",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://club.doctissimo.fr/topescortservice/",
@@ -819,10 +535,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://club.doctissimo.fr/topescortservice/",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://list.ly/topescortservice",
@@ -830,10 +543,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://list.ly/topescortservice",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://rb.gy/jyjt1",
@@ -841,10 +551,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://rb.gy/jyjt1",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://rb.gy/jser2",
@@ -852,10 +559,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://rb.gy/jser2",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://rb.gy/9v0df",
@@ -863,10 +567,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://rb.gy/9v0df",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://rb.gy/iiirk",
@@ -874,10 +575,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://rb.gy/iiirk",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://shorturl.at/qtEM3",
@@ -885,10 +583,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://shorturl.at/qtEM3",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://shorturl.at/bHTV6",
@@ -896,21 +591,15 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://shorturl.at/bHTV6",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://www.englishbaby.com/findfriends/gallery/detail/2454563",
-          "status": null,
-          "error": "",
+          "status": 502,
+          "error": null,
           "soft_404": false,
           "anchor_text": "https://www.englishbaby.com/findfriends/gallery/detail/2454563",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://www.vkay.net/topescortservice",
@@ -918,10 +607,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://www.vkay.net/topescortservice",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://www.vkay.net/read-blog/26462",
@@ -929,10 +615,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://www.vkay.net/read-blog/26462",
-          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.85
+          "surrounding_text": "https://topescortservice-18.webselfsite.net/homehttps://topescortservice-18.webselfsite.net/ludhianahttps://topescortservice-18.webselfsite.net/jaipurhttps://topescortservice.mystrikingly.com/jaipurhttps://topescortservice.mystrikingly.com/ludhianahttps://topescortservice.godaddysites.com/jaipurhttp"
         },
         {
           "broken_url": "https://yo.poematrix.com/autores/topescortservice/poemas/only-sexy-photo-and-video-whatsapp-group-link-invite-join",
@@ -940,10 +623,7 @@
           "error": "",
           "soft_404": false,
           "anchor_text": "https://yo.poematrix.com/autores/topescortservice/poemas/only-sexy-photo-and-video-whatsapp-group-link-invite-join",
-          "surrounding_text": "https://satori.lv/profile/-10523https://longbets.org/user/topescortservice/https://yo.poematrix.com/autores/topescortservice/poemas/only-sexy-photo-and-video-whatsapp-group-link-invite-joinhttps://www.social-vape.com/topescortservicehttps://www.social-vape.com/read-blog/60397https://www.ethiovisit.c",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": "https://satori.lv/profile/-10523https://longbets.org/user/topescortservice/https://yo.poematrix.com/autores/topescortservice/poemas/only-sexy-photo-and-video-whatsapp-group-link-invite-joinhttps://www.social-vape.com/topescortservicehttps://www.social-vape.com/read-blog/60397https://www.ethiovisit.c"
         },
         {
           "broken_url": "https://www.social-vape.com/topescortservice",
@@ -951,10 +631,7 @@
           "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)",
           "soft_404": false,
           "anchor_text": "https://www.social-vape.com/topescortservice",
-          "surrounding_text": "https://satori.lv/profile/-10523https://longbets.org/user/topescortservice/https://yo.poematrix.com/autores/topescortservice/poemas/only-sexy-photo-and-video-whatsapp-group-link-invite-joinhttps://www.social-vape.com/topescortservicehttps://www.social-vape.com/read-blog/60397https://www.ethiovisit.c",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": "https://satori.lv/profile/-10523https://longbets.org/user/topescortservice/https://yo.poematrix.com/autores/topescortservice/poemas/only-sexy-photo-and-video-whatsapp-group-link-invite-joinhttps://www.social-vape.com/topescortservicehttps://www.social-vape.com/read-blog/60397https://www.ethiovisit.c"
         },
         {
           "broken_url": "https://www.social-vape.com/read-blog/60397",
@@ -962,10 +639,7 @@
           "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)",
           "soft_404": false,
           "anchor_text": "https://www.social-vape.com/read-blog/60397",
-          "surrounding_text": "https://satori.lv/profile/-10523https://longbets.org/user/topescortservice/https://yo.poematrix.com/autores/topescortservice/poemas/only-sexy-photo-and-video-whatsapp-group-link-invite-joinhttps://www.social-vape.com/topescortservicehttps://www.social-vape.com/read-blog/60397https://www.ethiovisit.c",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": "https://satori.lv/profile/-10523https://longbets.org/user/topescortservice/https://yo.poematrix.com/autores/topescortservice/poemas/only-sexy-photo-and-video-whatsapp-group-link-invite-joinhttps://www.social-vape.com/topescortservicehttps://www.social-vape.com/read-blog/60397https://www.ethiovisit.c"
         },
         {
           "broken_url": "https://hanson.net/users/topescortservice",
@@ -973,10 +647,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://hanson.net/users/topescortservice",
-          "surrounding_text": "https://satori.lv/profile/-10523https://longbets.org/user/topescortservice/https://yo.poematrix.com/autores/topescortservice/poemas/only-sexy-photo-and-video-whatsapp-group-link-invite-joinhttps://www.social-vape.com/topescortservicehttps://www.social-vape.com/read-blog/60397https://www.ethiovisit.c",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": "https://satori.lv/profile/-10523https://longbets.org/user/topescortservice/https://yo.poematrix.com/autores/topescortservice/poemas/only-sexy-photo-and-video-whatsapp-group-link-invite-joinhttps://www.social-vape.com/topescortservicehttps://www.social-vape.com/read-blog/60397https://www.ethiovisit.c"
         },
         {
           "broken_url": "https://forum.flashphoner.com/members/topescortservice.16967/#about",
@@ -984,10 +655,7 @@
           "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)",
           "soft_404": false,
           "anchor_text": "https://forum.flashphoner.com/members/topescortservice.16967/#about",
-          "surrounding_text": "https://satori.lv/profile/-10523https://longbets.org/user/topescortservice/https://yo.poematrix.com/autores/topescortservice/poemas/only-sexy-photo-and-video-whatsapp-group-link-invite-joinhttps://www.social-vape.com/topescortservicehttps://www.social-vape.com/read-blog/60397https://www.ethiovisit.c",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": "https://satori.lv/profile/-10523https://longbets.org/user/topescortservice/https://yo.poematrix.com/autores/topescortservice/poemas/only-sexy-photo-and-video-whatsapp-group-link-invite-joinhttps://www.social-vape.com/topescortservicehttps://www.social-vape.com/read-blog/60397https://www.ethiovisit.c"
         },
         {
           "broken_url": "http://plug.hani.co.kr/?mid=textyle&comment_srl=4415389&document_srl=3494675&act=dispTextyleCommentReply&vid=heihei9999",
@@ -995,10 +663,7 @@
           "error": "",
           "soft_404": false,
           "anchor_text": "http://plug.hani.co.kr/?mid=textyle&comment_srl=4415389&document_srl=3494675&act=dispTextyleCommentReply&vid=heihei9999",
-          "surrounding_text": "https://satori.lv/profile/-10523https://longbets.org/user/topescortservice/https://yo.poematrix.com/autores/topescortservice/poemas/only-sexy-photo-and-video-whatsapp-group-link-invite-joinhttps://www.social-vape.com/topescortservicehttps://www.social-vape.com/read-blog/60397https://www.ethiovisit.c",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": "https://satori.lv/profile/-10523https://longbets.org/user/topescortservice/https://yo.poematrix.com/autores/topescortservice/poemas/only-sexy-photo-and-video-whatsapp-group-link-invite-joinhttps://www.social-vape.com/topescortservicehttps://www.social-vape.com/read-blog/60397https://www.ethiovisit.c"
         },
         {
           "broken_url": "https://topescortservice.onepage.website/",
@@ -1006,10 +671,7 @@
           "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)",
           "soft_404": false,
           "anchor_text": "https://topescortservice.onepage.website/",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://commiss.io/callgirlscontactnumber",
@@ -1017,10 +679,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://commiss.io/callgirlscontactnumber",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://forum.lexulous.com/user/topescortservice",
@@ -1028,10 +687,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://forum.lexulous.com/user/topescortservice",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://afroshub.com/topescortservice",
@@ -1039,10 +695,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://afroshub.com/topescortservice",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://afroshub.com/read-blog/53713",
@@ -1050,10 +703,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://afroshub.com/read-blog/53713",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://naijacontacts.com/-topescortservice",
@@ -1061,10 +711,15 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://naijacontacts.com/-topescortservice",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
+        },
+        {
+          "broken_url": "https://ubiz.chat/topescortservice",
+          "status": null,
+          "error": "[Errno 11001] getaddrinfo failed",
+          "soft_404": false,
+          "anchor_text": "https://ubiz.chat/topescortservice",
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://www.pickmemo.com/topescortservice",
@@ -1072,10 +727,7 @@
           "error": "[Errno 11002] getaddrinfo failed",
           "soft_404": false,
           "anchor_text": "https://www.pickmemo.com/topescortservice",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://www.pickmemo.com/read-blog/210084",
@@ -1083,10 +735,7 @@
           "error": "[Errno 11002] getaddrinfo failed",
           "soft_404": false,
           "anchor_text": "https://www.pickmemo.com/read-blog/210084",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://www.merexpression.com/topescortservice",
@@ -1094,10 +743,7 @@
           "error": "[Errno 11001] getaddrinfo failed",
           "soft_404": false,
           "anchor_text": "https://www.merexpression.com/topescortservice",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://www.merexpression.com/read-blog/120142",
@@ -1105,32 +751,23 @@
           "error": "[Errno 11001] getaddrinfo failed",
           "soft_404": false,
           "anchor_text": "https://www.merexpression.com/read-blog/120142",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://axisflare.com/topescortservice",
           "status": null,
-          "error": "",
+          "error": "All connection attempts failed",
           "soft_404": false,
           "anchor_text": "https://axisflare.com/topescortservice",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://axisflare.com/read-blog/102187",
           "status": null,
-          "error": "",
+          "error": "All connection attempts failed",
           "soft_404": false,
           "anchor_text": "https://axisflare.com/read-blog/102187",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://shorturl.at/bhnFX",
@@ -1138,10 +775,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://shorturl.at/bhnFX",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://shorturl.at/TVW45",
@@ -1149,10 +783,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://shorturl.at/TVW45",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://rb.gy/gj7iv",
@@ -1160,10 +791,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://rb.gy/gj7iv",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://rb.gy/lzjv5",
@@ -1171,10 +799,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://rb.gy/lzjv5",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://rb.gy/n5wuv",
@@ -1182,10 +807,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://rb.gy/n5wuv",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://rb.gy/q6s24",
@@ -1193,10 +815,15 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://rb.gy/q6s24",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
+        },
+        {
+          "broken_url": "https://bit.ly/m/topescortservice",
+          "status": 410,
+          "error": null,
+          "soft_404": false,
+          "anchor_text": "https://bit.ly/m/topescortservice",
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://bit.ly/45Foioa",
@@ -1204,10 +831,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://bit.ly/45Foioa",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://bit.ly/45M8Zdg",
@@ -1215,10 +839,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://bit.ly/45M8Zdg",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://bit.ly/3YUeULu",
@@ -1226,10 +847,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://bit.ly/3YUeULu",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://bit.ly/45mOELW",
@@ -1237,10 +855,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://bit.ly/45mOELW",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://t.ly/topescortservice",
@@ -1248,10 +863,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://t.ly/topescortservice",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://t.ly/Sq0gk",
@@ -1259,10 +871,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://t.ly/Sq0gk",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://t.ly/Bk9Pc",
@@ -1270,10 +879,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://t.ly/Bk9Pc",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://t.ly/YEjDR",
@@ -1281,10 +887,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://t.ly/YEjDR",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://t.ly/8BmdC",
@@ -1292,10 +895,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://t.ly/8BmdC",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://rebrand.ly/goagirls",
@@ -1303,10 +903,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://rebrand.ly/goagirls",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://rebrand.ly/ludhianagirls",
@@ -1314,10 +911,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://rebrand.ly/ludhianagirls",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://rebrand.ly/girlnumber",
@@ -1325,10 +919,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://rebrand.ly/girlnumber",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://rebrand.ly/jaipurgirls",
@@ -1336,21 +927,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://rebrand.ly/jaipurgirls",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
-        },
-        {
-          "broken_url": "https://my.link.gallery/topescortservice",
-          "status": null,
-          "error": "[Errno 11001] getaddrinfo failed",
-          "soft_404": false,
-          "anchor_text": "https://my.link.gallery/topescortservice",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://tinyurl.com/goagirls",
@@ -1358,10 +935,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://tinyurl.com/goagirls",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://tinyurl.com/ludhianagirls",
@@ -1369,10 +943,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://tinyurl.com/ludhianagirls",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://tinyurl.com/jaipurgirls",
@@ -1380,10 +951,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://tinyurl.com/jaipurgirls",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://tinyurl.com/russiannumber",
@@ -1391,10 +959,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://tinyurl.com/russiannumber",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://cutt.ly/cwj8tqvM",
@@ -1402,10 +967,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://cutt.ly/cwj8tqvM",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://cutt.ly/ywj8yQR9",
@@ -1413,10 +975,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://cutt.ly/ywj8yQR9",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://cutt.ly/nwj8y9fk",
@@ -1424,10 +983,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://cutt.ly/nwj8y9fk",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://cutt.ly/jwj8usKr",
@@ -1435,10 +991,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://cutt.ly/jwj8usKr",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://urlzs.com/cRFJ6",
@@ -1446,10 +999,7 @@
           "error": "",
           "soft_404": false,
           "anchor_text": "https://urlzs.com/cRFJ6",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://urlzs.com/2Hujb",
@@ -1457,10 +1007,7 @@
           "error": "",
           "soft_404": false,
           "anchor_text": "https://urlzs.com/2Hujb",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://urlzs.com/hfyjH",
@@ -1468,10 +1015,7 @@
           "error": "",
           "soft_404": false,
           "anchor_text": "https://urlzs.com/hfyjH",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://urlzs.com/hPW3p",
@@ -1479,10 +1023,7 @@
           "error": "",
           "soft_404": false,
           "anchor_text": "https://urlzs.com/hPW3p",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://n9.cl/goagirls",
@@ -1490,10 +1031,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://n9.cl/goagirls",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://n9.cl/ludhianagirls",
@@ -1501,10 +1039,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://n9.cl/ludhianagirls",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://n9.cl/jaipurgirls",
@@ -1512,10 +1047,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://n9.cl/jaipurgirls",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://n9.cl/girlsnumber",
@@ -1523,10 +1055,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://n9.cl/girlsnumber",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://gtmetrix.com/reports/www.girlaerocity.in/Rt40Wsb8/",
@@ -1534,10 +1063,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://gtmetrix.com/reports/www.girlaerocity.in/Rt40Wsb8/",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://gtmetrix.com/reports/www.girlaerocity.in/jg8IEKaE/",
@@ -1545,10 +1071,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://gtmetrix.com/reports/www.girlaerocity.in/jg8IEKaE/",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://gtmetrix.com/reports/www.girlaerocity.in/gVbaNHPR/",
@@ -1556,10 +1079,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://gtmetrix.com/reports/www.girlaerocity.in/gVbaNHPR/",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://gtmetrix.com/reports/www.girlaerocity.in/rFuLbRJO/",
@@ -1567,10 +1087,7 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://gtmetrix.com/reports/www.girlaerocity.in/rFuLbRJO/",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         },
         {
           "broken_url": "https://www.magcloud.com/user/topescortservice",
@@ -1578,35 +1095,11 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "https://www.magcloud.com/user/topescortservice",
-          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 3.0
+          "surrounding_text": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f"
         }
       ],
       "external_links_count": 309,
-      "broken_links_count": 88,
-      "selected_broken_url": "https://topescortservice.onepage.website/",
-      "replacement_url": "https://cloutclock.com/leaderboard",
-      "replacement_label": "web traffic leaderboard",
-      "replacement_fit": 3,
-      "replacement_anchor": "https://topescortservice.onepage.website/",
-      "replacement_context": "https://topescortservice.onepage.website/https://mail.party.biz/profile/214671https://sanjose.granicusideas.com/ideas/are-you-searching-for-call-girls-ludhiana-escort-servicehttps://sanjose.granicusideas.com/profile/64de0b99f2b670c903026363/commentshttps://sanjose.granicusideas.com/profile/64de0b99f",
-      "context_quality": 3,
-      "language_match": 2,
-      "score": 2.0,
-      "score_dimensions": {
-        "source_dr": 2.52,
-        "source_traffic": 2.0,
-        "niche_relevance": 1,
-        "context_quality": 3,
-        "replacement_fit": 3,
-        "contact_found": 0.0,
-        "language_match": 2
-      },
-      "score_threshold": 1.8,
-      "qualifies": true,
-      "contact_reject_reason": "no_email"
+      "broken_links_count": 89
     },
     {
       "id": "cloutclock_ad463e5c2a14",
@@ -1615,13 +1108,13 @@
       "source_title": "https://sitechecker.pro/app/main/project/2142795/audit/summary",
       "source_domain": "bitcointalk.org",
       "source_dr": 84,
-      "source_traffic_score": 2,
+      "source_traffic_score": 1,
       "competitor_mentioned": "bitcointalk.org",
-      "niche_relevance": 1,
-      "status": "scored",
+      "niche_relevance": 2,
+      "status": "scanned",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.789798+00:00",
-      "updated_at": "2026-09-15T11:17:15.789801+00:00",
+      "created_at": "2026-10-01T11:16:29.280320+00:00",
+      "updated_at": "2026-10-01T11:16:29.280322+00:00",
       "broken_links": [
         {
           "broken_url": "https://twitter.com/FireDAOKun",
@@ -1629,34 +1122,11 @@
           "error": null,
           "soft_404": false,
           "anchor_text": "Twitter",
-          "surrounding_text": "Twitter",
-          "replacement_url": "https://cloutclock.com/leaderboard",
-          "replacement_label": "web traffic leaderboard",
-          "replacement_fit_score": 2.6
+          "surrounding_text": "Twitter"
         }
       ],
-      "external_links_count": 73,
-      "broken_links_count": 1,
-      "selected_broken_url": "https://twitter.com/FireDAOKun",
-      "replacement_url": "https://cloutclock.com/leaderboard",
-      "replacement_label": "web traffic leaderboard",
-      "replacement_fit": 3,
-      "replacement_anchor": "Twitter",
-      "replacement_context": "Twitter",
-      "context_quality": 1,
-      "language_match": 2,
-      "score": 1.7,
-      "score_dimensions": {
-        "source_dr": 2.52,
-        "source_traffic": 2.0,
-        "niche_relevance": 1,
-        "context_quality": 1,
-        "replacement_fit": 3,
-        "contact_found": 0.0,
-        "language_match": 2
-      },
-      "score_threshold": 1.8,
-      "qualifies": false
+      "external_links_count": 57,
+      "broken_links_count": 1
     },
     {
       "id": "cloutclock_4d6247300875",
@@ -1668,15 +1138,10 @@
       "source_traffic_score": 1,
       "competitor_mentioned": "cyberchimps.com",
       "niche_relevance": 2,
-      "status": "rejected",
+      "status": "new",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.789830+00:00",
-      "updated_at": "2026-09-15T11:17:15.789832+00:00",
-      "broken_links": [],
-      "external_links_count": 21,
-      "broken_links_count": 0,
-      "no_broken_links": true,
-      "reject_reason": "No broken links"
+      "created_at": "2026-10-01T11:16:29.280349+00:00",
+      "updated_at": "2026-10-01T11:16:29.280351+00:00"
     },
     {
       "id": "cloutclock_22a18a58b253",
@@ -1688,30 +1153,10 @@
       "source_traffic_score": 1,
       "competitor_mentioned": "dev.to",
       "niche_relevance": 2,
-      "status": "rejected",
-      "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.789921+00:00",
-      "updated_at": "2026-09-15T11:17:15.789924+00:00",
-      "broken_links": [],
-      "external_links_count": 13,
-      "broken_links_count": 0,
-      "no_broken_links": true,
-      "reject_reason": "No broken links"
-    },
-    {
-      "id": "cloutclock_6c9ef8a9cbbd",
-      "site": "cloutclock",
-      "source_page": "https://codesupply.co/keyword-tracking-tools/",
-      "source_title": "Rank Tracker For Agencies",
-      "source_domain": "codesupply.co",
-      "source_dr": 81,
-      "source_traffic_score": 1,
-      "competitor_mentioned": "codesupply.co",
-      "niche_relevance": 2,
       "status": "new",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.790053+00:00",
-      "updated_at": "2026-09-15T11:17:15.790056+00:00"
+      "created_at": "2026-10-01T11:16:29.280449+00:00",
+      "updated_at": "2026-10-01T11:16:29.280451+00:00"
     },
     {
       "id": "cloutclock_c84ec13acf9f",
@@ -1725,8 +1170,23 @@
       "niche_relevance": 2,
       "status": "new",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.790123+00:00",
-      "updated_at": "2026-09-15T11:17:15.790125+00:00"
+      "created_at": "2026-10-01T11:16:29.280537+00:00",
+      "updated_at": "2026-10-01T11:16:29.280540+00:00"
+    },
+    {
+      "id": "cloutclock_6c9ef8a9cbbd",
+      "site": "cloutclock",
+      "source_page": "https://codesupply.co/keyword-tracking-tools/",
+      "source_title": "Rank Tracker For Agencies",
+      "source_domain": "codesupply.co",
+      "source_dr": 81,
+      "source_traffic_score": 1,
+      "competitor_mentioned": "codesupply.co",
+      "niche_relevance": 2,
+      "status": "new",
+      "provenance": "openseo",
+      "created_at": "2026-10-01T11:16:29.280588+00:00",
+      "updated_at": "2026-10-01T11:16:29.280591+00:00"
     },
     {
       "id": "cloutclock_b713e92d07ef",
@@ -1740,8 +1200,8 @@
       "niche_relevance": 2,
       "status": "new",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.790230+00:00",
-      "updated_at": "2026-09-15T11:17:15.790233+00:00"
+      "created_at": "2026-10-01T11:16:29.280714+00:00",
+      "updated_at": "2026-10-01T11:16:29.280717+00:00"
     },
     {
       "id": "cloutclock_2442524dab8e",
@@ -1755,8 +1215,8 @@
       "niche_relevance": 2,
       "status": "new",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.790450+00:00",
-      "updated_at": "2026-09-15T11:17:15.790453+00:00"
+      "created_at": "2026-10-01T11:16:29.280925+00:00",
+      "updated_at": "2026-10-01T11:16:29.280927+00:00"
     },
     {
       "id": "cloutclock_7587b4e77d9c",
@@ -1770,14 +1230,14 @@
       "niche_relevance": 2,
       "status": "new",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.790615+00:00",
-      "updated_at": "2026-09-15T11:17:15.790618+00:00"
+      "created_at": "2026-10-01T11:16:29.281080+00:00",
+      "updated_at": "2026-10-01T11:16:29.281083+00:00"
     },
     {
       "id": "cloutclock_158a358ed691",
       "site": "cloutclock",
       "source_page": "https://inkhive.com/2019/04/13/5-reasons-monitor-website/",
-      "source_title": "keyword tool generator",
+      "source_title": "website monitoring tool",
       "source_domain": "inkhive.com",
       "source_dr": 77,
       "source_traffic_score": 1,
@@ -1785,8 +1245,8 @@
       "niche_relevance": 2,
       "status": "new",
       "provenance": "openseo",
-      "created_at": "2026-09-15T11:17:15.790753+00:00",
-      "updated_at": "2026-09-15T11:17:15.790755+00:00"
+      "created_at": "2026-10-01T11:16:29.281209+00:00",
+      "updated_at": "2026-10-01T11:16:29.281212+00:00"
     }
   ]
 }
