@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-15T11:09:27+00:00",
+  "timestamp": "2026-10-15T11:08:50+00:00",
   "version": "2.0",
   "sites": {
     "hoojump": {
       "domain": "hoojump.com",
-      "collection_date": "2026-10-15T11:09:29+00:00",
+      "collection_date": "2026-10-15T11:08:54+00:00",
       "keywords_tracked": 12,
       "keywords_found": 0,
       "avg_rank": null,
@@ -1260,7 +1260,7 @@
     },
     "aivoxio": {
       "domain": "aivoxio.com",
-      "collection_date": "2026-10-15T11:09:31+00:00",
+      "collection_date": "2026-10-15T11:08:56+00:00",
       "keywords_tracked": 12,
       "keywords_found": 1,
       "avg_rank": 9.0,
@@ -2640,7 +2640,7 @@
     },
     "cloutclock": {
       "domain": "cloutclock.com",
-      "collection_date": "2026-10-15T11:11:06+00:00",
+      "collection_date": "2026-10-15T11:11:31+00:00",
       "keywords_tracked": 12,
       "keywords_found": 1,
       "avg_rank": 5.0,
@@ -3409,67 +3409,50 @@
           ],
           "featured_snippet": false,
           "featured_snippet_text": "",
-          "people_also_ask": [
-            {
-              "question": "Who are the top 10 marketers in the world?",
-              "snippet": ""
-            },
-            {
-              "question": "What is the big 4 in marketing?",
-              "snippet": ""
-            },
-            {
-              "question": "What's hot in marketing right now?",
-              "snippet": ""
-            },
-            {
-              "question": "Is CMO or VP of marketing higher?",
-              "snippet": ""
-            }
-          ],
+          "people_also_ask": [],
           "related_searches": [
-            "Best Marketing universities UK",
-            "Digital marketing leaderboard",
             "Best Marketing universities in the world",
             "Top 10 best Marketing universities in the world",
             "Best marketing universities in Europe",
-            "Best universities for marketing undergraduate",
             "Marketing University ranking",
-            "Best universities for marketing Master's UK"
+            "Best marketing universities in the world for master's",
+            "Best universities for marketing undergraduate",
+            "Best universities for Digital Marketing in the world",
+            "Best universities for marketing master's"
           ],
           "competitors": [
             {
               "position": 1,
-              "title": "UK Marketing Leaderboards - Whito",
-              "source": "whito.co.uk",
-              "link": "https://whito.co.uk/uk-marketing-leaderboards/"
-            },
-            {
-              "position": 2,
               "title": "Marketing Rankings 2027",
               "source": "Complete University Guide",
               "link": "https://www.thecompleteuniversityguide.co.uk/league-tables/rankings/marketing"
             },
             {
-              "position": 3,
-              "title": "Marketing Leaderboard",
-              "source": "Cisco Systems",
-              "link": "https://www.cisco.com/c/dam/m/en_uk/partners/distribution-champions-club-2022/assets/q1-marketing-le"
-            },
-            {
-              "position": 4,
+              "position": 2,
               "title": "Digital marketing agency Category Leaderboard",
               "source": "Rise at Seven",
               "link": "https://riseatseven.com/category-leaderboard/digital-marketing-agency/"
             },
             {
+              "position": 3,
+              "title": "QS World University Rankings for Marketing 2026",
+              "source": "Top Universities",
+              "link": "https://www.topuniversities.com/university-subject-rankings/marketing"
+            },
+            {
+              "position": 4,
+              "title": "Marketing Leaderboard",
+              "source": "Cisco Systems",
+              "link": "https://www.cisco.com/c/dam/m/en_uk/partners/distribution-champions-club-2022/assets/q1-marketing-le"
+            },
+            {
               "position": 5,
-              "title": "The Power of Leaderboards in Experiential Marketing",
-              "source": "Groove Jones",
-              "link": "https://www.groovejones.com/the-power-of-leaderboards-in-experiential-marketing-why-every-brand-acti"
+              "title": "Top Brands in Creator Marketing: June Leaderboard Report",
+              "source": "Traackr",
+              "link": "https://www.traackr.com/influencer-marketing-reports/creator-marketing-performance-leaderboard-month"
             }
           ],
-          "total_results": 82100000,
+          "total_results": 107000000,
           "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
@@ -3607,11 +3590,11 @@
               "snippet": ""
             },
             {
-              "question": "Are we living in an attention economy?",
+              "question": "Who coined the phrase \"attention economy\"?",
               "snippet": ""
             },
             {
-              "question": "Who came up with the attention economy?",
+              "question": "What is attention economy theory?",
               "snippet": ""
             }
           ],
@@ -3619,11 +3602,11 @@
             "Attention economy ranking 2023",
             "What is attention economy in social media",
             "Attention economy examples",
-            "Attention economy definition",
+            "The attention economy",
             "Attention economy book",
             "Herbert Simon attention economy PDF",
-            "Who coined the term attention economy",
-            "Attention economy Herbert Simon"
+            "Attention economy theory",
+            "Who coined the term attention economy"
           ],
           "competitors": [
             {
@@ -3652,12 +3635,12 @@
             },
             {
               "position": 5,
-              "title": "The Attention Economy in the Digital Age",
-              "source": "economie.gouv.fr",
-              "link": "https://www.tresor.economie.gouv.fr/articles/eb20b27a-6d7d-43ac-ba27-b47b68def354/files/a9bbf4b6-2dc"
+              "title": "The Attention Economy and the Collapse of Cognitive ...",
+              "source": "Georgetown Law",
+              "link": "https://www.law.georgetown.edu/denny-center/blog/the-attention-economy/"
             }
           ],
-          "total_results": 143000000,
+          "total_results": 142000000,
           "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
@@ -3673,77 +3656,14 @@
           "ai_overview_cited": false,
           "ai_overview_snippet": "",
           "ai_mode_cited": false,
-          "ai_mode_answer": "Here is the global website popularity leaderboard based on recent web traffic and engagement data from [Similarweb Top Websites Ranking](https://www.google.com/goto?url=CAESYwHrOzAVNG1mFcsVwLJqAUN-zeQg3n-kjXJc7LR3jKcQGeR7c6PcZFderJNKY7rKtNN6Ryz9kUkvaHgWDP5YexOuvsKuBEif_6UrODMJ6hnMXJkKnZzTqnDS6Z-kF9z7cvAASQ) and [Wikipedia's Most\\-Visited Websites](https://en.wikipedia.org/wiki/List_of_most-visited_websites).\n\n- google.com — The dominant global search engine and web ecosystem.\n- youtube.com — The",
-          "ai_mode_references": [
-            {
-              "title": "List of most-visited websites - Wikipedia",
-              "link": "https://en.wikipedia.org/wiki/List_of_most-visited_websites",
-              "source": "Wikipedia"
-            }
-          ],
+          "ai_mode_answer": "",
+          "ai_mode_references": [],
           "featured_snippet": false,
           "featured_snippet_text": "",
-          "people_also_ask": [
-            {
-              "question": "What are the 10 most popular websites?",
-              "snippet": ""
-            },
-            {
-              "question": "What is the #1 website in the world?",
-              "snippet": ""
-            },
-            {
-              "question": "How to get 1000 website visitors per day?",
-              "snippet": ""
-            },
-            {
-              "question": "What are the top 5 websites in the world?",
-              "snippet": ""
-            }
-          ],
-          "related_searches": [
-            "Site popularity leaderboard worldwide",
-            "Top 10 most visited websites in the world",
-            "Site popularity leaderboard by country",
-            "Top 100 most visited websites",
-            "Top 20 most visited websites in the world",
-            "Top website ranking",
-            "Top 10 most visited websites in Google",
-            "Top 50 most visited websites in the world"
-          ],
-          "competitors": [
-            {
-              "position": 1,
-              "title": "List of most-visited websites",
-              "source": "Wikipedia",
-              "link": "https://en.wikipedia.org/wiki/list_of_most-visited_websites"
-            },
-            {
-              "position": 2,
-              "title": "Most Visited Websites in the World August 2026 | Top ...",
-              "source": "Semrush",
-              "link": "https://www.semrush.com/trending-websites/global/all"
-            },
-            {
-              "position": 3,
-              "title": "Free Website Traffic Checker 🚀 Estimate Organic & PPC ...",
-              "source": "SE Ranking",
-              "link": "https://seranking.com/website-traffic-checker.html"
-            },
-            {
-              "position": 4,
-              "title": "Top Websites Ranking - Most Visited Websites In The World",
-              "source": "Similarweb",
-              "link": "https://www.similarweb.com/top-websites/"
-            },
-            {
-              "position": 5,
-              "title": "Google Search Central (formerly Webmasters) | Web SEO ...",
-              "source": "Google",
-              "link": "https://developers.google.com/search"
-            }
-          ],
-          "total_results": 134,
+          "people_also_ask": [],
+          "related_searches": [],
+          "competitors": [],
+          "total_results": null,
           "discussions_forums": [],
           "chatgpt_cited": false,
           "chatgpt_response": "",
@@ -3818,19 +3738,19 @@
             "snippet": ""
           },
           {
-            "question": "Who are the top 10 marketers in the world?",
+            "question": "What is the #1 game in the world?",
             "snippet": ""
           },
           {
-            "question": "What is the big 4 in marketing?",
+            "question": "What are 100 free games I can play?",
             "snippet": ""
           },
           {
-            "question": "What's hot in marketing right now?",
+            "question": "Does ESRb still exist?",
             "snippet": ""
           },
           {
-            "question": "Is CMO or VP of marketing higher?",
+            "question": "What is the best video game rating site?",
             "snippet": ""
           }
         ],
@@ -3869,7 +3789,7 @@
           },
           {
             "source": "Wikipedia",
-            "count": 3,
+            "count": 2,
             "best_position": 1
           },
           {
@@ -3884,7 +3804,7 @@
           },
           {
             "source": "SE Ranking",
-            "count": 3,
+            "count": 2,
             "best_position": 1
           },
           {
@@ -3898,7 +3818,7 @@
             "best_position": 1
           },
           {
-            "source": "whito.co.uk",
+            "source": "Complete University Guide",
             "count": 1,
             "best_position": 1
           },
