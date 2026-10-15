@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-10-01T11:31:13.625361+00:00",
+  "updated": "2026-10-15T11:33:30.053835+00:00",
   "sites": {
     "aivoxio": {
       "domain": "aivoxio.com",
@@ -10,10 +10,10 @@
         "scanned": 0,
         "matched": 0,
         "contact_found": 0,
-        "no_contact": 0,
-        "scored": 0,
-        "qualified": 0,
-        "drafts_pending_approval": 9,
+        "no_contact": 7,
+        "scored": 14,
+        "qualified": 4,
+        "drafts_pending_approval": 2,
         "approved": 0,
         "sent": 0,
         "live": 0
@@ -29,9 +29,9 @@
           "contact_name": "",
           "contact_email": "hello@spotsaas.com",
           "score": 2.13,
-          "status": "draft_pending_approval",
-          "subject": "Quick fix: dead link on spotsaas.com",
-          "body_preview": "Hi there,\n\nI came across your post 'Get Free Trial' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://retell.ai/pricing\n\nI run Voice AI Agency (https://a..."
+          "status": "quarantined",
+          "subject": "Broken link on your \"retell ai vs slang ai\" page",
+          "body_preview": "Hi there,\n\nI came across your post 'retell ai vs slang ai' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://retell.ai/pricing\n\nI run Voice AI Agency (ht..."
         },
         {
           "id": "aivoxio_60b6dd7764c9",
@@ -43,9 +43,9 @@
           "contact_name": "",
           "contact_email": "contact@toolpilot.ai",
           "score": 2.14,
-          "status": "draft_pending_approval",
-          "subject": "Quick fix: dead link on toolpilot.ai",
-          "body_preview": "Hi there,\n\nI came across your post 'Visit Site' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://www.linkedin.com/company/toolpilot/\n\nI run Voice AI Age..."
+          "status": "quarantined",
+          "subject": "Broken link on your \"Synthflow.ai - No Code AI Voice Agents\" page",
+          "body_preview": "Hi there,\n\nI came across your post 'Synthflow.ai - No Code AI Voice Agents' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://www.linkedin.com/company/to..."
         },
         {
           "id": "aivoxio_ce8bcead1a8b",
@@ -54,12 +54,12 @@
           "broken_url": "https://www.linkedin.com/company/martech-series",
           "replacement_url": "https://aivoxio.com/ai-receptionist",
           "replacement_label": "AI receptionist alternatives",
-          "contact_name": "PRNewswire-September 11, 2026",
+          "contact_name": "",
           "contact_email": "psen@martechseries.com",
           "score": 2.12,
-          "status": "draft_pending_approval",
-          "subject": "Quick fix: dead link on martechseries.com",
-          "body_preview": "Hi PRNewswire-September 11, 2026,\n\nI came across your post 'Synthflow AI,' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://www.linkedin.com/company/mar..."
+          "status": "quarantined",
+          "subject": "Broken link on your \"Synthflow AI and 8x8 Enter Strategic Partnership to Deliver...\" page",
+          "body_preview": "Hi there,\n\nI came across your post 'Synthflow AI and 8x8 Enter Strategic Partnership to Deliver Next-Generation Agentic AI' and found it genuinely useful.\n\nWhile reading, I noticed this link appears t..."
         },
         {
           "id": "aivoxio_2c67eea1c1ac",
@@ -68,12 +68,12 @@
           "broken_url": "https://riyanakabeer.in/performance-marketing-metrics-2026/",
           "replacement_url": "https://aivoxio.com/ai-receptionist",
           "replacement_label": "AI receptionist alternatives",
-          "contact_name": "steffie",
+          "contact_name": "",
           "contact_email": "contact@digidatale.com",
           "score": 1.99,
-          "status": "draft_pending_approval",
-          "subject": "Quick fix: dead link on digidatale.com",
-          "body_preview": "Hi steffie,\n\nI came across your post '(Trillet.ai)' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://riyanakabeer.in/performance-marketing-metrics-2026/..."
+          "status": "quarantined",
+          "subject": "Broken link on your \"np digital vs agence 5 differences\" page",
+          "body_preview": "Hi there,\n\nI came across your post 'np digital vs agence 5 differences' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://riyanakabeer.in/performance-mar..."
         },
         {
           "id": "aivoxio_2499ef08ac2e",
@@ -85,9 +85,9 @@
           "contact_name": "",
           "contact_email": "hello@hirejosie.ai",
           "score": 1.91,
-          "status": "draft_pending_approval",
-          "subject": "Quick fix: dead link on hirejosie.ai",
-          "body_preview": "Hi there,\n\nI came across your post 'one in five' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://www.ftc.gov/enforcement/refunds/pointbreak-media-refun..."
+          "status": "quarantined",
+          "subject": "Broken link on your \"Google Isn't Calling You: How to Stop Spam Calls (2026)\" page",
+          "body_preview": "Hi there,\n\nI came across your post 'Google Isn't Calling You: How to Stop Spam Calls (2026)' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://www.ftc.go..."
         },
         {
           "id": "aivoxio_136ba02d7fc6",
@@ -96,12 +96,12 @@
           "broken_url": "https://www.globenewswire.com/news-release/2026/05/12/3292882/0/en/vapi-raises-50m-series-b-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-ai.html",
           "replacement_url": "https://aivoxio.com/ai-receptionist",
           "replacement_label": "AI receptionist alternatives",
-          "contact_name": "tyrel@www.insurtechny.com",
+          "contact_name": "",
           "contact_email": "contact@insurtechny.com",
           "score": 2.14,
-          "status": "draft_pending_approval",
-          "subject": "Quick fix: dead link on insurtechny.com",
-          "body_preview": "Hi tyrel@www.insurtechny.com,\n\nI came across your post 'Vapi' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://www.globenewswire.com/news-release/2026/0..."
+          "status": "quarantined",
+          "subject": "Broken link on your \"mercury burnbot top headlines insurtech may 17\" page",
+          "body_preview": "Hi there,\n\nI came across your post 'mercury burnbot top headlines insurtech may 17' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://www.globenewswire.c..."
         },
         {
           "id": "aivoxio_bb0bff8b7f94",
@@ -113,9 +113,9 @@
           "contact_name": "",
           "contact_email": "info@devexhub.com",
           "score": 2.14,
-          "status": "draft_pending_approval",
-          "subject": "Quick fix: dead link on devexhub.com",
-          "body_preview": "Hi there,\n\nI came across your post 'Launch Call Demo' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://linkedin.com/company/devex-hub\n\nI run Voice AI Ag..."
+          "status": "quarantined",
+          "subject": "Broken link on your \"Custom AI Agents & Machine Learning Solutions\" page",
+          "body_preview": "Hi there,\n\nI came across your post 'Custom AI Agents & Machine Learning Solutions' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://linkedin.com/company..."
         },
         {
           "id": "aivoxio_08d6f9b06c88",
@@ -127,9 +127,9 @@
           "contact_name": "",
           "contact_email": "hello@aitools.inc",
           "score": 2.13,
-          "status": "draft_pending_approval",
-          "subject": "Broken link on your page: —",
-          "body_preview": "Hi there,\n\nI came across your post '—' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://linkedin.com/company/bland-ai\n\nI run Voice AI Agency (https://ai..."
+          "status": "quarantined",
+          "subject": "Broken link on your \"Bland | Enterprise Voice AI Platform for Phone Agents\" page",
+          "body_preview": "Hi there,\n\nI came across your post 'Bland | Enterprise Voice AI Platform for Phone Agents' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://linkedin.com..."
         },
         {
           "id": "aivoxio_645a013da55c",
@@ -141,9 +141,37 @@
           "contact_name": "",
           "contact_email": "solutions@veriprajna.com",
           "score": 1.84,
+          "status": "quarantined",
+          "subject": "Broken link on your \"crisis algorithmic integrity resilient ai biometric liability\" page",
+          "body_preview": "Hi there,\n\nI came across your post 'crisis algorithmic integrity resilient ai biometric liability' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://www...."
+        },
+        {
+          "id": "aivoxio_24a57649d88c",
+          "source_page": "https://simplified.com/blog/ai-writing/ai-customer-support",
+          "source_domain": "simplified.com",
+          "broken_url": "https://krispcall.com/blog/auto-reply-message-sample-for-business/",
+          "replacement_url": "https://aivoxio.com/ai-receptionist",
+          "replacement_label": "AI receptionist alternatives",
+          "contact_name": "",
+          "contact_email": "hello@simplified.com",
+          "score": 2.08,
           "status": "draft_pending_approval",
-          "subject": "Broken link on your page: https://www.trillet.ai/blogs/voice-ai-wrapper-dependency-risks",
-          "body_preview": "Hi there,\n\nI came across your post 'https://www.trillet.ai/blogs/voice-ai-wrapper-dependency-risks' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://www..."
+          "subject": "Broken link on your page: 5 AI Customer Support Solutions for Businesses [2026] | Sim...",
+          "body_preview": "Hi there,\n\nI came across your post '5 AI Customer Support Solutions for Businesses [2026] | Simplified' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps:/..."
+        },
+        {
+          "id": "aivoxio_bae9a296a9ba",
+          "source_page": "https://magicbox.tools/ai/vapi-ai",
+          "source_domain": "magicbox.tools",
+          "broken_url": "https://deepgram.partnerlinks.io/ps3mjcc1vth7?utm_source=magicbox.tools&utm_medium=referral",
+          "replacement_url": "https://aivoxio.com/ai-receptionist",
+          "replacement_label": "AI receptionist alternatives",
+          "contact_name": "",
+          "contact_email": "contact@magicbox.tools",
+          "score": 2.1,
+          "status": "draft_pending_approval",
+          "subject": "Broken link on magicbox.tools",
+          "body_preview": "Hi there,\n\nI came across your page (https://magicbox.tools/ai/vapi-ai) and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://deepgram.partnerlinks.io/ps3mjcc..."
         }
       ],
       "live_wins": []
@@ -156,10 +184,10 @@
         "scanned": 0,
         "matched": 0,
         "contact_found": 0,
-        "no_contact": 0,
-        "scored": 0,
+        "no_contact": 11,
+        "scored": 4,
         "qualified": 0,
-        "drafts_pending_approval": 1,
+        "drafts_pending_approval": 0,
         "approved": 0,
         "sent": 0,
         "live": 0
@@ -172,12 +200,12 @@
           "broken_url": "https://www.linkedin.com/in/matt-keyser-253842237/",
           "replacement_url": "https://hoojump.com/pages/creator-merch-examples",
           "replacement_label": "creator merch examples",
-          "contact_name": "Matt KeyserMatt Keyser is a writer at Fourthwall who lives at the intersection of social media and Creator culture.UpdatedOct 7, 2025",
+          "contact_name": "",
           "contact_email": "hello@fourthwall.com",
           "score": 2.08,
-          "status": "draft_pending_approval",
-          "subject": "Quick fix: dead link on fourthwall.com",
-          "body_preview": "Hi Matt KeyserMatt Keyser is a writer at Fourthwall who lives at the intersection of social media and Creator culture.UpdatedOct 7, 2025,\n\nI came across your post 'Printify' and found it genuinely use..."
+          "status": "quarantined",
+          "subject": "Broken link on your \"best alternatives to tpop\" page",
+          "body_preview": "Hi there,\n\nI came across your post 'best alternatives to tpop' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://www.linkedin.com/in/matt-keyser-25384223..."
         }
       ],
       "live_wins": []
@@ -186,19 +214,34 @@
       "domain": "cloutclock.com",
       "business": "Clout Clock - attention leaderboard",
       "counts": {
-        "new": 8,
-        "scanned": 10,
+        "new": 0,
+        "scanned": 0,
         "matched": 0,
         "contact_found": 0,
-        "no_contact": 0,
-        "scored": 0,
-        "qualified": 0,
-        "drafts_pending_approval": 0,
+        "no_contact": 9,
+        "scored": 6,
+        "qualified": 1,
+        "drafts_pending_approval": 1,
         "approved": 0,
         "sent": 0,
         "live": 0
       },
-      "drafts": [],
+      "drafts": [
+        {
+          "id": "cloutclock_6c9ef8a9cbbd",
+          "source_page": "https://codesupply.co/keyword-tracking-tools/",
+          "source_domain": "codesupply.co",
+          "broken_url": "https://www.serpple.com/",
+          "replacement_url": "https://cloutclock.com/leaderboard",
+          "replacement_label": "web traffic leaderboard",
+          "contact_name": "",
+          "contact_email": "outreach@codesupply.co",
+          "score": 1.99,
+          "status": "draft_pending_approval",
+          "subject": "Broken link on your page: Top 10 Keyword Tracking Tools for SEO Success in 2023",
+          "body_preview": "Hi there,\n\nI came across your post 'Top 10 Keyword Tracking Tools for SEO Success in 2023' and found it genuinely useful.\n\nWhile reading, I noticed this link appears to be broken:\nhttps://www.serpple...."
+        }
+      ],
       "live_wins": []
     }
   }
