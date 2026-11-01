@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-10-15T11:33:30.053835+00:00",
+  "updated": "2026-11-01T12:43:32.284635+00:00",
   "sites": {
     "aivoxio": {
       "domain": "aivoxio.com",
@@ -10,7 +10,7 @@
         "scanned": 0,
         "matched": 0,
         "contact_found": 0,
-        "no_contact": 7,
+        "no_contact": 11,
         "scored": 14,
         "qualified": 4,
         "drafts_pending_approval": 2,
@@ -218,8 +218,8 @@
         "scanned": 0,
         "matched": 0,
         "contact_found": 0,
-        "no_contact": 9,
-        "scored": 6,
+        "no_contact": 10,
+        "scored": 8,
         "qualified": 1,
         "drafts_pending_approval": 1,
         "approved": 0,
